@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .diamonds one-word domains from Un
 
 **Public extract:** 9,663 rows · **Live catalog:** 9,662 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | easy.diamonds     | available | $72.98    | —             | 128            | 68     | 4      | namecheap                               |
 | car.diamonds      | resell    | $72.98    | —             | 94             | 46     | 3      | OVH SAS                                 |
 | cloud.diamonds    | premium   | $520      | $520          | 70             | 59     | 5      | namecheap                               |
-| alpha.diamonds    | available | $72.98    | —             | 90             | 53     | 5      | namecheap                               |
+| alpha.diamonds    | available | $72.98    | —             | 90             | 54     | 5      | namecheap                               |
 | domain.diamonds   | resell    | —         | —             | 80             | 64     | 6      | GoDaddy.com, LLC                        |
 | design.diamonds   | premium   | $500      | $500          | 108            | 50     | 6      | name.com                                |
 | fast.diamonds     | available | $72.98    | —             | 82             | 53     | 4      | namecheap                               |
@@ -76,14 +76,14 @@ print(df.head())
 | art.diamonds      | available | $72.98    | —             | 90             | 52     | 3      | namecheap                               |
 | smart.diamonds    | resell    | —         | —             | 74             | 55     | 5      | Porkbun LLC                             |
 | travel.diamonds   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                               |
-| one.diamonds      | available | $72.98    | —             | 132            | 51     | 3      | namecheap                               |
+| one.diamonds      | available | $72.98    | —             | 132            | 50     | 3      | namecheap                               |
 | best.diamonds     | resell    | —         | —             | 82             | 53     | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
 | all.diamonds      | premium   | $250      | $250          | 88             | 48     | 3      | name.com                                |
 | air.diamonds      | available | $72.98    | —             | 84             | 49     | 3      | namecheap                               |
-| info.diamonds     | resell    | —         | —             | 80             | 53     | 4      | NameCheap, Inc.                         |
+| info.diamonds     | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.                         |
 | trade.diamonds    | premium   | $260      | $260          | 116            | 46     | 5      | namecheap                               |
 | security.diamonds | available | $72.98    | —             | 70             | 49     | 8      | namecheap                               |
-| stellar.diamonds  | resell    | —         | —             | 78             | 50     | 7      | Spaceship, Inc.                         |
+| stellar.diamonds  | resell    | —         | —             | 78             | 49     | 7      | Spaceship, Inc.                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
