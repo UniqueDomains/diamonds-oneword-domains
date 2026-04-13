@@ -3,18 +3,18 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C663%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C662%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C663%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .diamonds one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .diamonds one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 9,662-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,663 domains** on the canonical page below.
 
-**Public extract:** 9,663 rows · **Live catalog:** 9,663 domains
+**Public extract:** 9,662 rows · **Live catalog:** 9,663 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DIAMONDS one-word dom
 
 ### Files
 
-- `diamonds.csv` — public CSV extract (9,663 rows)
-- `diamonds.json` — public JSON extract (9,663 rows)
+- `diamonds.csv` — public CSV extract (9,662 rows)
+- `diamonds.json` — public JSON extract (9,662 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -69,11 +69,11 @@ print(df.head())
 | cloud.diamonds    | premium   | $520      | $520          | 70             | 59     | 5      | namecheap                               |
 | alpha.diamonds    | available | $72.98    | —             | 90             | 53     | 5      | namecheap                               |
 | domain.diamonds   | resell    | —         | —             | 80             | 64     | 6      | GoDaddy.com, LLC                        |
-| design.diamonds   | premium   | $500      | $500          | 108            | 50     | 6      | name.com                                |
-| fast.diamonds     | available | $72.98    | —             | 82             | 53     | 4      | namecheap                               |
-| data.diamonds     | resell    | —         | —             | 70             | 56     | 4      | NameCheap, Inc.                         |
 | life.diamonds     | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                               |
 | art.diamonds      | available | $72.98    | —             | 90             | 52     | 3      | namecheap                               |
+| data.diamonds     | resell    | —         | —             | 70             | 56     | 4      | NameCheap, Inc.                         |
+| design.diamonds   | premium   | $500      | $500          | 108            | 49     | 6      | name.com                                |
+| fast.diamonds     | available | $72.98    | —             | 82             | 52     | 4      | namecheap                               |
 | smart.diamonds    | resell    | —         | —             | 74             | 55     | 5      | Porkbun LLC                             |
 | travel.diamonds   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                               |
 | one.diamonds      | available | $72.98    | —             | 132            | 50     | 3      | namecheap                               |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,663-row public sample | 9,663 live domains                               |
+| 9,662-row public sample | 9,663 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
