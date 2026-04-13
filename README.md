@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .diamonds one-word domains from Un
 
 **Public extract:** 9,663 rows · **Live catalog:** 9,663 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | easy.diamonds     | available | $72.98    | —             | 128            | 68     | 4      | namecheap                               |
 | car.diamonds      | resell    | $72.98    | —             | 94             | 46     | 3      | OVH SAS                                 |
 | cloud.diamonds    | premium   | $520      | $520          | 70             | 59     | 5      | namecheap                               |
-| alpha.diamonds    | available | $72.98    | —             | 90             | 54     | 5      | namecheap                               |
+| alpha.diamonds    | available | $72.98    | —             | 90             | 53     | 5      | namecheap                               |
 | domain.diamonds   | resell    | —         | —             | 80             | 64     | 6      | GoDaddy.com, LLC                        |
 | design.diamonds   | premium   | $500      | $500          | 108            | 50     | 6      | name.com                                |
 | fast.diamonds     | available | $72.98    | —             | 82             | 53     | 4      | namecheap                               |
@@ -77,7 +77,7 @@ print(df.head())
 | smart.diamonds    | resell    | —         | —             | 74             | 55     | 5      | Porkbun LLC                             |
 | travel.diamonds   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                               |
 | one.diamonds      | available | $72.98    | —             | 132            | 50     | 3      | namecheap                               |
-| best.diamonds     | resell    | —         | —             | 82             | 53     | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| best.diamonds     | resell    | —         | —             | 82             | 52     | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
 | all.diamonds      | premium   | $250      | $250          | 88             | 48     | 3      | name.com                                |
 | air.diamonds      | available | $72.98    | —             | 84             | 49     | 3      | namecheap                               |
 | info.diamonds     | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.                         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
