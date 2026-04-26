@@ -1,22 +1,22 @@
-# Available .DIAMONDS One-Word Domains (9,662)
+# Available .DIAMONDS One-Word Domains (12,030)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C663%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C662%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C030%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .diamonds one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .diamonds one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,030 domains** on the canonical page below.
 
-**Public extract:** 9,663 rows · **Live catalog:** 9,662 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,030 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DIAMONDS one-word dom
 
 ### Files
 
-- `diamonds.csv` — public CSV extract (9,663 rows)
-- `diamonds.json` — public JSON extract (9,663 rows)
+- `diamonds.csv` — public CSV extract (1,000 rows)
+- `diamonds.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| easy.diamonds    | available | $72.98    | —             | 128            | 68     | 4      | namecheap                               |
-| car.diamonds     | resell    | $72.98    | —             | 94             | 46     | 3      | OVH SAS                                 |
-| cloud.diamonds   | premium   | $520      | $520          | 70             | 59     | 5      | namecheap                               |
-| alpha.diamonds   | available | $72.98    | —             | 90             | 53     | 5      | namecheap                               |
-| domain.diamonds  | resell    | —         | —             | 80             | 64     | 6      | GoDaddy.com, LLC                        |
-| life.diamonds    | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                               |
-| art.diamonds     | available | $72.98    | —             | 90             | 52     | 3      | namecheap                               |
-| data.diamonds    | resell    | —         | —             | 70             | 56     | 4      | NameCheap, Inc.                         |
-| design.diamonds  | premium   | $500      | $500          | 108            | 49     | 6      | name.com                                |
-| fast.diamonds    | available | $72.98    | —             | 82             | 52     | 4      | namecheap                               |
-| smart.diamonds   | resell    | —         | —             | 74             | 55     | 5      | Porkbun LLC                             |
-| travel.diamonds  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                               |
-| one.diamonds     | available | $72.98    | —             | 132            | 50     | 3      | namecheap                               |
-| best.diamonds    | resell    | —         | —             | 82             | 52     | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| all.diamonds     | premium   | $250      | $250          | 88             | 48     | 3      | name.com                                |
-| simple.diamonds  | available | $72.98    | —             | 128            | 49     | 6      | namecheap                               |
-| info.diamonds    | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.                         |
-| trade.diamonds   | premium   | $260      | $260          | 116            | 46     | 5      | namecheap                               |
-| air.diamonds     | available | $72.98    | —             | 84             | 49     | 3      | namecheap                               |
-| stellar.diamonds | resell    | —         | —             | 78             | 49     | 7      | Spaceship, Inc.                         |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agents.diamonds       | available | $72.98    | —             | 56             | 50     | 6      | namecheap |
+| girls.diamonds        | premium   | $250      | —             | 83             | 23     | 5      | name.com  |
+| shortcuts.diamonds    | available | $72.98    | —             | 48             | 41     | 10     | namecheap |
+| rocks.diamonds        | premium   | $250      | —             | 78             | 18     | 5      | name.com  |
+| lets.diamonds         | available | $72.98    | —             | 77             | 39     | 4      | namecheap |
+| events.diamonds       | available | $72.98    | —             | 68             | 37     | 6      | namecheap |
+| tokens.diamonds       | available | $54.99    | $54.99        | 51             | 36     | 6      | namesilo  |
+| tickets.diamonds      | available | $54.99    | $54.99        | 64             | 34     | 7      | namesilo  |
+| spectra.diamonds      | available | $72.98    | —             | 62             | 34     | 7      | namecheap |
+| payments.diamonds     | available | $72.98    | —             | 58             | 33     | 8      | namecheap |
+| teams.diamonds        | available | $72.98    | —             | 62             | 32     | 5      | namecheap |
+| partners.diamonds     | available | $72.98    | —             | 61             | 32     | 8      | namecheap |
+| letsgo.diamonds       | available | $72.98    | —             | 57             | 31     | 7      | namecheap |
+| solutions.diamonds    | available | $72.98    | —             | 56             | 31     | 9      | namecheap |
+| inspiration.diamonds  | available | $72.98    | —             | 88             | 30     | 11     | namecheap |
+| spaces.diamonds       | available | $72.98    | —             | 54             | 30     | 6      | namecheap |
+| popup.diamonds        | available | $72.98    | —             | 84             | 29     | 6      | namecheap |
+| heroes.diamonds       | available | $72.98    | —             | 68             | 29     | 6      | namecheap |
+| Jim.diamonds          | available | $72.98    | —             | 78             | 28     | 3      | namecheap |
+| commonground.diamonds | available | $72.98    | —             | 74             | 28     | 13     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,663-row public sample | 9,662 live domains                               |
+| 1,000-row public sample | 12,030 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
