@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .diamonds one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,636 domains · **Median ask:** $72.03 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | solutions.diamonds  | available | $72.98    | —             | 56             | 31     | 9      | namecheap        |
 | rewards.diamonds    | available | $54.99    | $54.99        | 62             | 30     | 7      | namesilo         |
 | spaces.diamonds     | available | $72.98    | —             | 54             | 30     | 6      | namecheap        |
-| popup.diamonds      | available | $72.98    | —             | 84             | 29     | 6      | namecheap        |
 | heroes.diamonds     | available | $72.98    | —             | 68             | 29     | 6      | namecheap        |
 | cams.diamonds       | available | $54.99    | $54.99        | 52             | 29     | 4      | namesilo         |
+| popup.diamonds      | available | $72.98    | —             | 84             | 28     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
