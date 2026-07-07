@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .diamonds one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,636 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,636 domains · **Median ask:** $72.03 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,636 domains · **Median ask:** $65.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/diamonds`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/diamonds`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DIAMONDS one-word dom
 
 ### Files
 
-- `diamonds.csv` — public CSV extract (1,000 rows)
-- `diamonds.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `diamonds.csv`, public CSV extract (1,000 rows)
+- `diamonds.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| agents.diamonds     | available | $72.98    | —             | 56             | 50     | 6      | namecheap        |
-| yes.diamonds        | resell    | —         | —             | 90             | 47     | 3      | GoDaddy.com, LLC |
-| girls.diamonds      | premium   | $250      | —             | 83             | 23     | 5      | name.com         |
-| shortcuts.diamonds  | available | $72.98    | —             | 48             | 41     | 10     | namecheap        |
-| rocks.diamonds      | premium   | $250      | —             | 78             | 18     | 5      | name.com         |
-| lets.diamonds       | available | $72.98    | —             | 77             | 39     | 4      | namecheap        |
-| appraisals.diamonds | premium   | $242      | $242          | 56             | 10     | 10     | namesilo         |
-| events.diamonds     | available | $72.98    | —             | 68             | 37     | 6      | namecheap        |
-| tokens.diamonds     | available | $54.99    | $54.99        | 51             | 36     | 6      | namesilo         |
-| tickets.diamonds    | available | $54.99    | $54.99        | 64             | 34     | 7      | namesilo         |
-| spectra.diamonds    | available | $72.98    | —             | 62             | 34     | 7      | namecheap        |
-| payments.diamonds   | available | $72.98    | —             | 58             | 33     | 8      | namecheap        |
-| teams.diamonds      | available | $72.98    | —             | 62             | 32     | 5      | namecheap        |
-| partners.diamonds   | available | $72.98    | —             | 61             | 31     | 8      | namecheap        |
-| solutions.diamonds  | available | $72.98    | —             | 56             | 31     | 9      | namecheap        |
-| rewards.diamonds    | available | $54.99    | $54.99        | 62             | 30     | 7      | namesilo         |
-| spaces.diamonds     | available | $72.98    | —             | 54             | 30     | 6      | namecheap        |
-| heroes.diamonds     | available | $72.98    | —             | 68             | 29     | 6      | namecheap        |
-| cams.diamonds       | available | $54.99    | $54.99        | 52             | 29     | 4      | namesilo         |
-| popup.diamonds      | available | $72.98    | —             | 84             | 28     | 6      | namecheap        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| christmas.diamonds | premium   | $500      | —             | high           | low    | 9      | name.com                                |
+| come.diamonds      | available | $54.99    | $54.99        | high           | low    | 4      | namesilo                                |
+| off.diamonds       | premium   | $500      | —             | high           | low    | 3      | name.com                                |
+| jesus.diamonds     | available | $54.99    | $54.99        | high           | medium | 5      | namesilo                                |
+| special.diamonds   | available | $72.98    | —             | high           | low    | 7      | namecheap                               |
+| bce.diamonds       | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo                                |
+| car.diamonds       | resell    | $72.98    | —             | high           | medium | 3      | OVH SAS                                 |
+| all.diamonds       | premium   | $250      | $250          | high           | medium | 3      | name.com                                |
+| bed.diamonds       | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
+| best.diamonds      | resell    | —         | —             | high           | medium | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| are.diamonds       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                |
+| boo.diamonds       | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
+| science.diamonds   | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC                        |
+| him.diamonds       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                |
+| cap.diamonds       | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
+| stellar.diamonds   | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                         |
+| cup.diamonds       | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
+| our.diamonds       | premium   | $500      | —             | medium         | medium | 3      | name.com                                |
+| die.diamonds       | available | $72.98    | —             | medium         | low    | 3      | namecheap                               |
+| city.diamonds      | premium   | $500      | —             | high           | medium | 4      | name.com                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .diamonds extension, which gives the set a very specific commercial and category signal. Examples such as drive.diamonds, claim.diamonds, scan.diamonds, key.diamonds, and aesthetic.diamonds show a mix of direct keywords, abstract terms, and stronger brand candidates. For founders, the main question is whether the word feels memorable and credible on .diamonds. For investors, the focus is whether the ask leaves room versus likely end-user utility. With a median ask of $72, price discipline matters less than fit, clarity, and avoiding weak word-extension combinations that feel forced or confusing.
+This selection is limited to one-word domain names on the .diamonds extension, drawn from everyday English vocabulary such as out.diamonds, half.diamonds, just.diamonds, and christmas.diamonds. With 12,636 domains carrying a median asking price near $65, .diamonds offers a low-cost entry point for short, memorable names. Because pricing sits close to standard registration cost across most listings, spread and resale premiums are limited — this list favors clarity and brandability over arbitrage. When comparing these domains, weigh word recognition, spelling simplicity, and renewal cost against how directly the name fits a project or portfolio.
 
-- One-word .diamonds names with strong category signaling
-- Median ask is $72 across 12,635 listed domains
-- Best picks pair clean words with natural .diamonds fit
-- Check renewal cost and trademark overlap before buying
+- 12,636 one-word .diamonds domains in this selection
+- Median asking price near $65 across listings
+- Everyday words: out, half, just, great, okay, damn
+- Low-cost entry point for short, brandable names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
