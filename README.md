@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .diamonds one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,571 domains · **Median ask:** $62.04 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| bce.diamonds     | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo                                |
-| car.diamonds     | resell    | $72.98    | —             | high           | medium | 3      | OVH SAS                                 |
-| all.diamonds     | premium   | $250      | $250          | high           | medium | 3      | name.com                                |
-| bed.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
-| best.diamonds    | resell    | —         | —             | high           | medium | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| are.diamonds     | premium   | $242      | $242          | high           | low    | 3      | namesilo                                |
-| boo.diamonds     | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
-| science.diamonds | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC                        |
-| him.diamonds     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                |
-| cap.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
-| stellar.diamonds | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                         |
-| off.diamonds     | premium   | $500      | —             | high           | low    | 3      | name.com                                |
-| cup.diamonds     | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
-| our.diamonds     | premium   | $500      | —             | medium         | medium | 3      | name.com                                |
-| die.diamonds     | available | $72.98    | —             | medium         | low    | 3      | namecheap                               |
-| city.diamonds    | premium   | $500      | —             | high           | medium | 4      | name.com                                |
-| don.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
-| diva.diamonds    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                |
-| feb.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
-| star.diamonds    | premium   | $250      | $250          | high           | medium | 4      | name.com                                |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| christmas.diamonds | premium   | $500      | —             | high           | low    | 9      | name.com                                |
+| come.diamonds      | available | $54.99    | $54.99        | high           | low    | 4      | namesilo                                |
+| bce.diamonds       | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo                                |
+| car.diamonds       | resell    | $72.98    | —             | high           | medium | 3      | OVH SAS                                 |
+| all.diamonds       | premium   | $250      | $250          | high           | medium | 3      | name.com                                |
+| bed.diamonds       | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
+| best.diamonds      | resell    | —         | —             | high           | medium | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| are.diamonds       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                |
+| boo.diamonds       | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
+| science.diamonds   | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC                        |
+| him.diamonds       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                |
+| cap.diamonds       | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
+| stellar.diamonds   | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                         |
+| off.diamonds       | premium   | $500      | —             | high           | low    | 3      | name.com                                |
+| cup.diamonds       | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
+| our.diamonds       | premium   | $500      | —             | medium         | medium | 3      | name.com                                |
+| die.diamonds       | available | $72.98    | —             | medium         | low    | 3      | namecheap                               |
+| city.diamonds      | premium   | $500      | —             | high           | medium | 4      | name.com                                |
+| don.diamonds       | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
+| diva.diamonds      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
