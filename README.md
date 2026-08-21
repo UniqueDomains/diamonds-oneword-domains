@@ -1,10 +1,10 @@
-# Available .DIAMONDS One-Word Domains (17,943)
+# Available .DIAMONDS One-Word Domains (18,142)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C943%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C142%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .diamonds one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,943 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,142 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,943 domains · **Median ask:** $61.94 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 18,142 domains · **Median ask:** $61.87 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`
@@ -76,7 +76,7 @@ print(df.head())
 | cap.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                |
 | stellar.diamonds | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                         |
 | off.diamonds     | premium   | $500      | —             | high           | low    | 3      | name.com                                |
-| cup.diamonds     | available | $72.98    | —             | high           | low    | 3      | namecheap                               |
+| cup.diamonds     | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo                                |
 | our.diamonds     | premium   | $500      | —             | medium         | medium | 3      | name.com                                |
 | die.diamonds     | available | $72.98    | —             | medium         | low    | 3      | namecheap                               |
 | city.diamonds    | premium   | $500      | —             | high           | medium | 4      | name.com                                |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,943 live domains                        |
+| 1,000-row public sample | 18,142 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
