@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-55c1a03c-519d-4770-95e4-3f76c5cabca9,infrared.diamonds,available,54.99,54.99,medium,low,9,namesilo,,
+55c1a03c-519d-4770-95e4-3f76c5cabca9,infrared.diamonds,available,54.99,54.99,low,low,9,namesilo,,
 c8fd3f66-359f-4107-84f9-bbfa97baf4ac,twentieth.diamonds,available,54.99,54.99,high,low,9,namesilo,,
 b2d32f17-11a1-4858-a38b-587a3b704e2b,atpresent.diamonds,available,54.99,54.99,medium,low,10,namesilo,,
 e3687bc2-e1bc-42ab-bb85-76e5d9cf6b77,aeriferous.diamonds,available,54.99,54.99,low,low,10,namesilo,,
