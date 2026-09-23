@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 55c1a03c-519d-4770-95e4-3f76c5cabca9,infrared.diamonds,available,54.99,54.99,low,low,9,namesilo,,,04/09/2026 07:52
-c8fd3f66-359f-4107-84f9-bbfa97baf4ac,twentieth.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+c8fd3f66-359f-4107-84f9-bbfa97baf4ac,twentieth.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,21/09/2026 12:27
 b2d32f17-11a1-4858-a38b-587a3b704e2b,atpresent.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
 e3687bc2-e1bc-42ab-bb85-76e5d9cf6b77,aeriferous.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 d3c5262f-0c5f-4e44-af2a-220ebad57b84,upabove.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
@@ -11,7 +11,7 @@ ef03e4ec-67e7-466a-802a-60958b7cc321,makemusic.diamonds,available,54.99,54.99,hi
 ae239dbb-304b-4675-a572-d65ee68a4a2e,annually.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,
 93d4cb7c-f778-4020-b5d3-850edfe06f82,computerlanguage.diamonds,available,54.99,54.99,high,low,17,namesilo,,,
 8d45095a-e265-49cf-9a3d-6fb85bec68ce,confusing.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
-b50154d1-74f6-4e6e-abc6-55d87329ca67,engrossed.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+b50154d1-74f6-4e6e-abc6-55d87329ca67,engrossed.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,21/09/2026 15:00
 5fe6e08a-52fd-4c58-bebe-98c5bd43d420,indespiteof.diamonds,available,54.99,54.99,medium,low,13,namesilo,,,
 cec499b6-e826-4af2-a26a-936843d519c2,whitepepper.diamonds,available,54.99,54.99,low,low,12,namesilo,,,
 59f5c25a-42ac-4fd5-bf0e-ba18728970ed,acned.diamonds,available,54.99,54.99,low,low,5,namesilo,,,
@@ -25,13 +25,13 @@ e38f96d8-2bfb-49c5-83bd-82b7d8357179,river.diamonds,premium,500,,high,low,5,name
 b8e1c413-57a1-4cd8-9536-4ec86c79e077,stillborn.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
 d91cd1dd-9ac4-4799-8053-65018d9e26a9,raised.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 ca2b4d45-61b4-4b8c-bc0a-55be6999961b,petty.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
-11668678-97e3-4e55-9c56-c0a1e8d947b1,accountability.diamonds,available,54.99,54.99,high,low,14,namesilo,,,
+11668678-97e3-4e55-9c56-c0a1e8d947b1,accountability.diamonds,available,54.99,54.99,medium,low,14,namesilo,,,
 4c8e3d12-09c3-497d-9d24-ef6eb9f61df6,someone.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 273cc47e-5b72-4980-9085-79f2922b51bb,alary.diamonds,available,54.99,54.99,low,low,5,namesilo,,,
 c08ed118-eed2-4cbf-914d-f5cde1a8ad8e,animals.diamonds,available,72.98,,medium,low,7,namecheap,,,
 04cf1d81-ab8a-4ff3-a0fc-206ead3515f9,dancehall.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
 5b26fd51-c8c2-4429-a80a-421a2c9093ea,alight.diamonds,available,54.99,54.99,low,low,6,namesilo,,,
-4d51a204-1369-4cfc-8e8b-dfa1044ae749,ground.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+4d51a204-1369-4cfc-8e8b-dfa1044ae749,ground.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 17:38
 07ec8b21-6628-4de2-907c-26ceacfb7ff2,basics.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 fef18eec-0f20-4d63-9004-70f2121a4d3c,come.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 97fb9442-4e56-4e65-9954-d18a72acdc23,stygian.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
@@ -39,7 +39,7 @@ fef18eec-0f20-4d63-9004-70f2121a4d3c,come.diamonds,available,54.99,54.99,high,lo
 69a3d071-92cc-447a-8fb6-828256c5d001,jetpack.diamonds,available,,,high,low,8,,,,
 5fc58dd9-49ef-431c-ac1b-1885ca133bc2,victim.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
 d09f4aca-4860-4be7-991a-362378992794,getwiththetimes.diamonds,available,72.98,,high,low,18,namecheap,,,
-f57d5a3f-cc0c-4013-9c43-c3b2bd5fdc52,establish.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
+f57d5a3f-cc0c-4013-9c43-c3b2bd5fdc52,establish.diamonds,available,54.99,54.99,low,low,9,namesilo,,,22/09/2026 17:35
 a86e53f4-deab-47be-b574-fd3df1bd9433,advert.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 34b32bd0-6004-4de1-ade4-dff85dea848e,procrastinate.diamonds,available,72.98,,medium,low,13,namecheap,,,
 5f7cf978-b5b4-46c8-bb52-b51401c9b5b9,arm.diamonds,available,,,high,low,3,,,,
@@ -68,27 +68,27 @@ e0c2a447-43ba-45c3-aedc-839d534f35ac,consummate.diamonds,available,54.99,54.99,h
 d9d67218-3060-44ae-8d59-b33044aaef41,getreligion.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
 82b38cc7-c1ae-4901-9fd5-0da49f7cc8de,flyingsaucer.diamonds,available,54.99,54.99,high,low,13,namesilo,,,
 187ee3ce-d491-4115-8e3d-4039540557eb,getthepicture.diamonds,available,72.98,,high,low,15,namecheap,,,
-bf7b7c17-ffa0-47cf-b9b9-bcfba7f7fd76,subsidiary.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
-91fcaf3f-7891-476a-ae37-410540a9e2ff,plotted.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+bf7b7c17-ffa0-47cf-b9b9-bcfba7f7fd76,subsidiary.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,22/09/2026 14:17
+91fcaf3f-7891-476a-ae37-410540a9e2ff,plotted.diamonds,available,57.98,72.98,low,low,7,namecheap,,,21/09/2026 22:10
 aeb99513-34ab-4588-93b3-e550aad2beb1,barbellate.diamonds,available,54.99,54.99,low,low,10,namesilo,,,08/08/2026 16:57
 8906c664-523a-4732-bcbf-ca336337ea5a,lie.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,
 8b4fe0f7-b7f4-4831-b36b-ab18e505158d,afebrile.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 eb0b8e96-60e8-499c-b9fc-3616d4161d9a,analeptic.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
 3a99f34a-a678-493b-8f3a-4f727b566f6c,hater.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
-0d36aac2-1e98-4fa5-be19-62eb43c3004c,accessory.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+0d36aac2-1e98-4fa5-be19-62eb43c3004c,accessory.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,21/09/2026 15:35
 a2d7e7f6-346e-4d15-a094-e179bb67070a,energy.diamonds,available,54.99,54.99,medium,medium,6,namesilo,,,04/09/2026 13:30
 8d8068eb-49cf-4fce-8392-967ced59bc3c,philips.diamonds,available,,,high,low,7,,,,
 1b3c3dba-3110-45c6-92e7-bac9253ab3a3,stable.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 fe5554d0-c982-4cd7-b0fc-4bb13299b22c,getopen.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 eac609b8-e153-43b7-a958-93f3e089b10f,count.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
-84c6cfa0-39b4-4d4e-b06f-f4ed474b8d03,asleep.diamonds,available,72.98,,high,low,6,namecheap,,,
+84c6cfa0-39b4-4d4e-b06f-f4ed474b8d03,asleep.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 09:45
 5c466910-b770-4f6e-a95c-a423e8063909,faxmachine.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
 25830a10-b575-40a3-b0d3-42bae7635dc2,atthelast.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
 bfe25453-0ee0-40cf-a08f-acbdb0d6ebb1,monitoring.diamonds,available,72.98,,high,low,10,namecheap,,,
 7c5dfa85-208a-4ee7-91ba-793eed28e234,mothafucker.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
 f6f64f24-3d55-4a5b-ba5a-468a25bbebcb,spirited.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 a3fcccaa-7759-4a18-80c7-2beccfb4e7bc,atfault.diamonds,available,54.99,54.99,low,low,8,namesilo,,,07/08/2026 11:18
-5be88a8c-24bf-4053-82ce-b96203691bc2,best.diamonds,resell,,,high,medium,4,PDR Ltd. d/b/a PublicDomainRegistry.com,26/06/2016 06:42,26/06/2026 06:42,
+5be88a8c-24bf-4053-82ce-b96203691bc2,best.diamonds,resell,,,medium,low,4,PDR Ltd. d/b/a PublicDomainRegistry.com,26/06/2016 06:42,26/06/2027 06:42,22/09/2026 19:49
 1c061b11-e417-458a-8c73-86b64a4658d6,clothes.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 0dcd91c0-4a36-4298-8fc6-ebb712d18997,chinesenewyear.diamonds,available,54.99,54.99,high,low,16,namesilo,,,
 7a4af2e8-2ba8-4301-95bb-0fb93969ae3e,streetcrime.diamonds,available,72.98,,low,low,12,namecheap,,,
@@ -142,7 +142,7 @@ a99b344a-2cb2-4772-9cbf-fa80854de653,chorus.diamonds,available,54.99,54.99,high,
 164fe8bc-a8b2-4ec8-82d8-ba5cc189f57f,arcuate.diamonds,available,54.99,54.99,low,low,7,namesilo,,,06/08/2026 14:49
 0a7edae3-158a-4b94-bb49-4aa0092948ca,ladiesfirst.diamonds,available,54.99,54.99,medium,low,12,namesilo,,,
 cfaa070b-c6f0-4b0d-aa62-d3472b94f1b2,rectify.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-5f8e9d9f-851e-4ef8-9005-5e6dfc893b52,awfully.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
+5f8e9d9f-851e-4ef8-9005-5e6dfc893b52,awfully.diamonds,available,57.98,72.98,low,low,7,namecheap,,,22/09/2026 15:26
 2d67b6a6-04e4-4a89-a548-6081139c4ca7,freaking.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 e3177b5b-35c2-4980-b905-49c89e58a2b1,goat.diamonds,available,54.99,54.99,medium,medium,4,namesilo,,,
 8eb451fd-1385-4a88-bc01-a1a1f3e7cca5,khakis.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
@@ -167,7 +167,7 @@ d256cb75-f5c8-48de-ac58-34512e206d99,hunger.diamonds,available,54.99,54.99,high,
 8c5d3ec9-2460-4aa5-89e0-1e8765e63eee,legs.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 6ae08681-1df0-46eb-af5c-857ab7870974,smileyface.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
 7a412c4b-2339-40da-8440-3f42ea36da02,teamwork.diamonds,available,72.98,,high,low,8,namecheap,,,
-814dc4e0-f4c8-433c-b2ee-bfe3a46735b6,riveting.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
+814dc4e0-f4c8-433c-b2ee-bfe3a46735b6,riveting.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,21/09/2026 15:09
 e5f1d5c5-4ec2-41d5-ac95-05446b773d0c,freely.diamonds,available,72.98,,high,low,6,namecheap,,,
 71490627-0a88-4daa-bcf4-f757d7aa872f,manyatimeandoft.diamonds,available,72.98,,medium,low,19,namecheap,,,
 e1d31fd4-b42e-43f2-ad64-ab4c62befa6e,withoutfail.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
@@ -189,7 +189,7 @@ f8a4f547-3e7d-412f-83a7-9c157e3c2cf6,doit.diamonds,available,54.99,54.99,high,lo
 4f6ca4a0-5f19-40e0-842a-2fa8d8345a4e,chip.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 f4128b21-7af1-4448-8c75-6982314e1e26,equipped.diamonds,available,72.98,,medium,low,8,namecheap,,,
 7e46ff33-d996-4832-92bc-029d906d32db,lxxxvii.diamonds,available,57.98,72.98,low,low,7,namecheap,,,
-da660122-e193-4111-a1cd-305a68fd2c40,information.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
+da660122-e193-4111-a1cd-305a68fd2c40,information.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,23/09/2026 02:55
 c214e9d7-1988-4de8-a353-9f21b68df57e,least.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 d5ff9de5-617c-4f90-a643-516f42a62d48,informal.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 a2e1bc2b-2754-481e-aacc-faf87738e376,leavesomeonecold.diamonds,available,54.99,54.99,medium,low,18,namesilo,,,
@@ -236,19 +236,19 @@ c867f937-9525-49bd-bfcd-d6fca929acdc,finalize.diamonds,available,54.99,54.99,hig
 36dacd0e-4ca4-4c14-ba5e-2124b08c5bab,dieselengine.diamonds,available,54.99,54.99,high,low,13,namesilo,,,
 08c3e00e-be48-45b4-97e7-20a7d8cf1da0,arrayed.diamonds,available,54.99,54.99,low,low,7,namesilo,,,06/08/2026 21:37
 2efd8f7f-454f-45b1-9012-fc2d7fb5053f,posting.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-8dcf0fb4-bde0-403c-a811-9fb78152b442,austrian.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
+8dcf0fb4-bde0-403c-a811-9fb78152b442,austrian.diamonds,available,54.99,54.99,low,low,8,namesilo,,,22/09/2026 13:38
 0247f72d-763b-47a9-86f7-d43a99f946ad,lucrative.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
-ec3d9e66-042b-4190-ae44-67969eff6ce7,ablaze.diamonds,available,54.99,54.99,low,low,6,namesilo,,,
-8b17d0b1-546a-4f1c-900b-6e200863ea18,aboutship.diamonds,available,72.98,,high,low,10,namecheap,,,
+ec3d9e66-042b-4190-ae44-67969eff6ce7,ablaze.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
+8b17d0b1-546a-4f1c-900b-6e200863ea18,aboutship.diamonds,available,72.98,,medium,low,10,namecheap,,,
 b818413d-a804-4d15-8a29-8fee691943a6,ticket.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 06ef840a-1fb9-4db2-8323-21d793964690,speaker.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 041a21f2-b07b-42ee-a10a-d740addbb5c4,westindies.diamonds,available,54.99,54.99,low,low,11,namesilo,,,
 e52b85db-19b2-4e78-8716-f707b077641a,platform.diamonds,available,54.99,54.99,high,medium,8,namesilo,,,
-511cc124-8f1f-4a36-811e-b933ab849106,advance.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+511cc124-8f1f-4a36-811e-b933ab849106,advance.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,21/09/2026 20:22
 b0fb396e-0115-4c38-88f1-1ee89d2e1b77,rank.diamonds,available,72.98,,high,low,4,namecheap,,,
 5295747f-2070-4fd9-8cd2-c0f7a3c00430,philadelphia.diamonds,premium,242,242,high,low,12,namesilo,,,
-6f3782c9-5ff7-4b93-b191-63ba6a557253,dozen.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
-00b5c107-fd72-428e-bb98-50ed9af10a0f,improvise.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+6f3782c9-5ff7-4b93-b191-63ba6a557253,dozen.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,21/09/2026 11:29
+00b5c107-fd72-428e-bb98-50ed9af10a0f,improvise.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,21/09/2026 16:45
 9952ffcf-80ef-48e1-9862-bc2f69b79fcb,overwhelm.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 c4845b75-ddeb-42da-b740-445d6becfd5d,apostolic.diamonds,available,54.99,54.99,low,low,9,namesilo,,,06/08/2026 04:04
 06c7dfaf-a06f-401b-8cf8-33d8fea29b84,hairfollicle.diamonds,available,54.99,54.99,high,low,13,namesilo,,,
@@ -269,27 +269,25 @@ ac2411ca-17d8-410c-93ef-d643236a29e3,safersex.diamonds,available,54.99,54.99,med
 db8e9286-d492-4199-af6c-07f6fa6ed527,getwell.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 962d7a20-7bbd-4fa5-9c9c-f639000b0bef,ridiculous.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
 39c85961-c60d-49c9-9b77-dc67fdb3af85,inch.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
-480b8a7f-2bda-4d4a-9a63-765c5f321640,nought.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+480b8a7f-2bda-4d4a-9a63-765c5f321640,nought.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,21/09/2026 10:34
 7132a680-7c46-43ea-b148-dbdc60051a19,suspension.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
 e2f99f01-8a3f-49cb-a88c-5c310a481682,failedstate.diamonds,available,54.99,54.99,medium,low,12,namesilo,,,
 625e86a3-51eb-404b-a928-08e5a066a033,anaerobic.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
 cfdf4451-da42-4e05-9006-5d983041de49,vaccination.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
 cd8fb1a5-154e-4577-9ee0-b050ab6b5956,anodyne.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
-909f9c5b-904c-441e-9c88-46500b1ae0e8,unify.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
+909f9c5b-904c-441e-9c88-46500b1ae0e8,unify.diamonds,available,57.98,72.98,low,low,5,namecheap,,,22/09/2026 03:16
 05a16ca5-e759-4853-aafa-70fdbb2e06b9,fog.diamonds,available,54.99,54.99,high,low,3,namesilo,,,
 9348a90d-56da-4199-b58d-8b4b44259866,addresses.diamonds,available,72.98,,medium,low,9,namecheap,,,
-9ac584c6-aef4-49cd-b0ae-6f7025eccd2f,cherry.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 2a81a525-3e1d-449c-9ed3-577df55e8f9e,corrected.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 477b5081-36a0-4fc6-9267-ba921f04f2bf,magiccarpet.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
 753ef35c-86ee-4d9e-b6b1-3eaa0a03f1eb,sympathize.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
 b59daf9b-4fc5-4416-b661-413d27f761a5,dishwasher.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
 0fdb6692-f4f3-4d1e-b988-41b38b43aa8c,greedy.diamonds,available,54.99,54.99,low,low,6,namesilo,,,07/08/2026 22:09
-859c379c-a4a4-4db8-9aaf-e81290dde7d1,wing.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
+859c379c-a4a4-4db8-9aaf-e81290dde7d1,wing.diamonds,available,54.99,54.99,low,low,4,namesilo,,,22/09/2026 15:49
 9b0c47c2-1ce2-499b-a465-1fa07d643f4d,indifferent.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
 0a2b7db6-be66-4b10-b4ee-d7c8fe63976f,mitigative.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 0c00faa3-8ca9-428e-8f5c-458b72e8e97f,rockmusic.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
 cb65ce06-0193-46bb-af39-6b69146e0bed,surprising.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
-6ad1e257-a1d8-4721-accd-c0d909888f77,star.diamonds,premium,250,250,high,medium,4,name.com,,,
 2483e318-4fc7-42d7-b94b-638f363f3e07,reebok.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 a9a117f7-498e-484b-a790-3872a4730cc3,middleeastern.diamonds,available,72.98,,medium,low,14,namecheap,,,
 737110fa-b65a-4b87-ac17-a0d564b35e7e,burden.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
@@ -304,11 +302,11 @@ f0b51f74-13eb-49d0-a7db-69687cee9f12,proactive.diamonds,available,54.99,54.99,hi
 f92fa0ae-cfb4-4799-9ffc-bf00271105ad,tothepowerof.diamonds,available,54.99,54.99,medium,low,15,namesilo,,,
 a2ad128a-18a0-46f8-8d78-8d1e5f416d0d,die.diamonds,available,72.98,,medium,low,3,namecheap,,,
 e8b17862-e97f-4b64-9ae7-9cfec4958acb,freespirit.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
-878be720-f0e7-487b-bc2e-fc1752486289,leap.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
+878be720-f0e7-487b-bc2e-fc1752486289,leap.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,23/09/2026 01:39
 e6f8ba98-21fb-4552-94d4-355e665a01fa,soaker.diamonds,available,54.99,54.99,low,low,6,namesilo,,,
 d1628da1-a80c-4e4a-825b-dedb9a3b8e20,scurvy.diamonds,available,54.99,54.99,low,low,6,namesilo,,,
 ee7ac419-c349-4358-82f2-fe6d0b9ac766,unwell.diamonds,available,57.98,72.98,low,low,6,namecheap,,,
-86cf4157-d130-442b-aa6d-876dd7caeb86,remove.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+86cf4157-d130-442b-aa6d-876dd7caeb86,remove.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,21/09/2026 14:40
 8ee10302-1d4e-4540-877f-91face93958d,stupid.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 d8df3915-7269-452a-9860-c9d2182d5b4e,getoutofhere.diamonds,available,72.98,,high,low,15,namecheap,,,
 21020d22-ec08-4c84-92c8-f6dfdd962d37,etiologic.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
@@ -329,7 +327,7 @@ ad02567e-cf53-4746-9aab-6c22f40f2b57,fatandhappy.diamonds,available,72.98,,high,
 512f57d3-4e78-45be-8da5-8634e5f85334,provoke.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
 67b51890-75ef-4a78-a1a5-3734a48427d0,incline.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 eeab03ca-3440-40d1-af98-43aa9e6ed82b,detergent.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
-81d5f4bb-55b6-428f-8f5f-d59a2b8d77ad,bare.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
+81d5f4bb-55b6-428f-8f5f-d59a2b8d77ad,bare.diamonds,available,57.98,72.98,low,low,4,namecheap,,,22/09/2026 11:54
 aac3c2df-293f-4524-ae26-7a6e6cdb3598,algerian.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 74c5c414-3ba4-46a1-b7ee-a4242975c640,askance.diamonds,available,54.99,54.99,low,low,7,namesilo,,,07/08/2026 02:56
 010b6261-b211-4859-a28b-419c02943174,viceversa.diamonds,available,54.99,54.99,low,low,10,namesilo,,,16/09/2026 08:33
@@ -346,7 +344,7 @@ c31401d2-49b0-42c0-b02b-97d51acd8cc7,arched.diamonds,available,54.99,54.99,low,l
 5e10652a-ad02-46b0-8c7d-2607bf97b3cf,manya.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
 6eedebc5-be42-4ba4-93d6-5a9ad89c0168,stormy.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
 0a109c85-6a7d-491c-96c5-c732bc7aefde,creek.diamonds,available,72.98,,high,low,5,namecheap,,,
-95a6e2fe-3e4f-4e6c-914b-7bfb331541df,vain.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
+95a6e2fe-3e4f-4e6c-914b-7bfb331541df,vain.diamonds,available,54.99,54.99,low,low,4,namesilo,,,22/09/2026 23:50
 06367a0e-79c5-437a-adb3-718f99c90fad,parents.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
 0aaa55d1-3f73-4e4e-82bd-b2f467a0c7be,respecting.diamonds,available,72.98,,medium,low,10,namecheap,,,
 c7fb3ef2-df75-42a9-a364-a86dc24e4df6,abuse.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,08/09/2026 12:39
@@ -364,7 +362,7 @@ aa74e44e-9e32-4dcb-93e4-84ae860f12af,heatwave.diamonds,available,54.99,54.99,med
 238f4207-3918-4657-bc81-6339599f41f6,aetiologic.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 c27d67f8-b3e8-449e-8c15-a61bdc679049,microsoft.diamonds,available,,,high,low,9,,,,
 fedc3889-d8da-42e4-9a74-32a7eb306dec,magical.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-7e642b4f-edab-4e1a-8bcd-6e20ac0068a7,twenty.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+7e642b4f-edab-4e1a-8bcd-6e20ac0068a7,twenty.diamonds,available,57.98,72.98,medium,low,6,namecheap,,,21/09/2026 12:24
 60efae81-bac5-470d-9ce0-f046a63ec881,stclair.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
 92093428-3c10-4697-be5f-3a023de4768e,coverart.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 99b02687-1174-4eee-9da7-2be5d38025f8,imaginable.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
@@ -373,15 +371,15 @@ fedc3889-d8da-42e4-9a74-32a7eb306dec,magical.diamonds,available,54.99,54.99,high
 f22143ba-d8ff-4c0b-b2c6-891f5f60ec7d,aphanitic.diamonds,available,54.99,54.99,low,low,9,namesilo,,,05/08/2026 23:01
 d3b610ce-5f93-46e1-8112-1725591412e5,daminozide.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 21d1fa97-8f8f-4c35-aaca-17ea83884a2a,getoff.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-7ec93a96-dcb9-44dc-ac78-5599b4979502,tedious.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
-37099cb2-e611-4cf2-95b9-204eaf25cd68,ordered.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+7ec93a96-dcb9-44dc-ac78-5599b4979502,tedious.diamonds,available,54.99,54.99,low,low,7,namesilo,,,23/09/2026 00:32
+37099cb2-e611-4cf2-95b9-204eaf25cd68,ordered.diamonds,available,54.99,54.99,low,low,7,namesilo,,,22/09/2026 08:32
 c318f9cc-d879-4e6f-9307-d7f1c66e1cb2,skirt.diamonds,available,72.98,,high,low,5,namecheap,,,
 aa93c01d-32cc-42bf-85a5-646ff62f497b,words.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 ff915d20-cdac-4fa7-a8b6-1e8b77f39c63,uraemic.diamonds,available,54.99,54.99,low,low,7,namesilo,,,08/08/2026 02:48
 3cb09ea7-4a55-484d-afa2-9441181351c6,oar.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,
-f64c8345-12fa-46a0-8e4c-aa177d3b0f1d,whizz.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
+f64c8345-12fa-46a0-8e4c-aa177d3b0f1d,whizz.diamonds,available,57.98,72.98,medium,low,5,namecheap,,,21/09/2026 18:06
 1f874f74-ccd5-4a77-a232-152914a92238,christalive.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
-ed4e7fe8-d84b-4a1b-90be-124b50e4bd27,bouncy.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+ed4e7fe8-d84b-4a1b-90be-124b50e4bd27,bouncy.diamonds,available,54.99,54.99,low,low,6,namesilo,,,23/09/2026 01:24
 5567725c-95c7-49ae-9742-87d538ff9f32,wrongly.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
 eaee7c41-4f90-42d8-98fe-1f4af4d99f48,dowhat.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
 9e20ba79-c5ca-4ec9-a685-4f0349240451,ancestral.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
@@ -389,22 +387,21 @@ eaee7c41-4f90-42d8-98fe-1f4af4d99f48,dowhat.diamonds,available,54.99,54.99,mediu
 9212d00f-e370-4cb8-8ad8-cba65afd4f25,summary.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 c7422c87-309a-4739-b168-88204b4de16a,beastly.diamonds,available,54.99,54.99,low,low,7,namesilo,,,09/08/2026 04:54
 c2fc195c-1af6-432d-a89d-37bc08d88e2a,fortieth.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
-2dbbdcc6-3127-48ac-b041-a00419c37b35,adjusted.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
+2dbbdcc6-3127-48ac-b041-a00419c37b35,adjusted.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,21/09/2026 18:42
 80f3762e-ca80-4e3a-b8c5-a9ad658c61ca,ninetyone.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 667e7284-49f5-4d86-bcb9-b8538cb27bd5,paul.diamonds,available,54.99,54.99,high,medium,4,namesilo,,,
 e75e4330-300e-4822-ba99-dcae583aaae2,vein.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 41753de4-1062-45f8-8fba-a98efd53fec4,seed.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
 570924d0-ad74-4301-894c-e42c28f3d2d5,feels.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 b517e16e-72f0-4fae-acd7-29cbff6b58cb,ixl.diamonds,available,54.99,54.99,low,low,3,namesilo,,,
-87737e30-a291-4104-8612-36a5f06aeab8,bland.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
+87737e30-a291-4104-8612-36a5f06aeab8,bland.diamonds,available,54.99,54.99,low,low,5,namesilo,,,22/09/2026 21:44
 4fa8d911-fee7-410e-b720-83ddbaeccef0,befogged.diamonds,available,54.99,54.99,low,low,8,namesilo,,,09/08/2026 08:43
 7913fe3d-65da-458c-a211-f6e6e6099406,radar.diamonds,available,72.98,,high,low,5,namecheap,,,
 2346309d-8d21-40d7-a664-b82d7e2fa7a5,dirty.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 22ed9520-9c1f-4d70-933f-7fe8ec46143a,bce.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,
-0b3d473d-0489-488b-bf57-268d885e4bbd,amenable.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,
+0b3d473d-0489-488b-bf57-268d885e4bbd,amenable.diamonds,available,54.99,54.99,low,low,8,namesilo,,,22/09/2026 04:02
 412ad00c-5248-4ba9-b805-5bc058487a1d,slave.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
 36acb83b-cad8-42ce-948d-fbd7b1d36e4f,octet.diamonds,available,57.98,72.98,low,low,5,namecheap,,,
-d7b3d697-4b02-4dc4-86c9-07ef6822f7d8,boss.diamonds,available,,,high,high,4,,,,
 62915baa-5ffa-4bb9-817c-745351197bba,thenandnow.diamonds,available,54.99,54.99,low,low,12,namesilo,,,
 75166d0b-b64d-495e-9fdd-fc25219a586d,systematically.diamonds,available,72.98,,medium,low,14,namecheap,,,
 c096b54d-1d68-46d0-b646-de9eb7e5c57a,basophilic.diamonds,available,54.99,54.99,low,low,10,namesilo,,,08/08/2026 22:53
@@ -412,12 +409,12 @@ f034b12b-1d85-4896-ba09-8452b0e12fa5,oldman.diamonds,available,54.99,54.99,mediu
 a33f8f61-960f-495b-be81-d66bf41a09d0,wikimedia.diamonds,available,,,low,low,9,,,,
 f077beab-d1c6-4a1e-b91e-6cfb651e502d,francesca.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 06608eb7-9ed3-4b46-9cdd-68c9857cd242,muhfucka.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,
-66d2271b-f350-4802-ad8d-7d4b75aecf79,baking.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+66d2271b-f350-4802-ad8d-7d4b75aecf79,baking.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 16:25
 17feff9d-2aaf-4c50-9d87-f33b2f9bc85c,thirtythree.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
 15ade7a4-372f-464e-b0f1-9223163c80e0,focus.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,19/09/2026 06:53
 295730e0-1636-40c5-ae91-d07302f766f3,stat.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 3459f469-50d8-4fe9-83ee-05a98480132a,interpersonal.diamonds,available,54.99,54.99,high,low,13,namesilo,,,
-da492b7b-e02a-49f4-9fbd-54d5a2a61c28,surrogate.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+da492b7b-e02a-49f4-9fbd-54d5a2a61c28,surrogate.diamonds,available,54.99,54.99,low,low,9,namesilo,,,22/09/2026 02:27
 43355e80-7598-4e88-8c86-25d7aa526b8c,aftermost.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
 7d3f223a-b8d3-4148-86fb-d063e1f50c69,islands.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 b28b5a7f-4119-42a2-a03a-cc49d8599d10,rearmost.diamonds,available,54.99,54.99,low,low,8,namesilo,,,08/08/2026 06:09
@@ -428,7 +425,7 @@ c0d9abca-efe3-4fc7-ac5f-dac13174b15e,southamerican.diamonds,available,72.98,,low
 6c30e259-264b-43a0-b28a-d343d8b59112,rid.diamonds,available,54.99,54.99,high,low,3,namesilo,,,
 fc9c48d5-8b6d-482b-b399-97a8a858d83e,bell.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 366a9c55-2193-462e-b12c-3d41ebdd0ce3,condolence.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
-f88c7e88-b47b-4b97-a53f-6b7121cbfb16,baggy.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
+f88c7e88-b47b-4b97-a53f-6b7121cbfb16,baggy.diamonds,available,57.98,72.98,low,low,5,namecheap,,,22/09/2026 16:21
 635830a4-c06d-4e93-ab63-154fe23d36bd,lucent.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
 cf291bec-046b-4f7d-9ee0-2e912c24ae7c,capone.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
 d7349708-ab21-4b3e-bd09-b4b18b65ec04,ohmygosh.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
@@ -446,7 +443,7 @@ b06c0af6-3839-456a-9f79-4cefe1edd29d,schoolbook.diamonds,available,57.98,72.98,l
 6ec852ea-b03a-451d-811c-8d1fa0938141,plague.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 a8418129-c4f4-4352-90c8-2967e8aee0a7,comingfromyou.diamonds,available,54.99,54.99,high,low,15,namesilo,,,
 206829c4-66c3-46da-8a12-4a8763c9c87c,kudos.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
-62b85f8d-3dfb-4d98-b54e-47b9c95b3408,actual.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+62b85f8d-3dfb-4d98-b54e-47b9c95b3408,actual.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,21/09/2026 16:37
 452008eb-b243-4884-96b5-2522dc06d694,mountain.diamonds,premium,500,,high,low,8,name.com,,,
 9e982b24-ac21-4ea6-a1ce-937a62139a64,saintly.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 b5134929-114d-460f-935e-f19c17b07c9a,pushing.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
@@ -457,7 +454,7 @@ c1441a06-b3c1-4233-ab85-72b184aed8bd,wheezy.diamonds,available,54.99,54.99,low,l
 ee1152ec-407e-415b-b84b-1b66be297c0e,tie.diamonds,available,54.99,54.99,high,low,3,namesilo,,,
 5b603c06-ea9c-420d-b1ec-2e1633223097,adonic.diamonds,available,54.99,54.99,low,low,6,namesilo,,,
 dd6d3cec-4422-4326-91c9-879897a75597,slope.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
-d2510ff9-274a-4d69-906b-0907886e3873,education.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,19/09/2026 06:14
+d2510ff9-274a-4d69-906b-0907886e3873,education.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,23/09/2026 04:28
 f99ccbf4-1f6c-4d91-9825-b89abb207468,transferableskill.diamonds,available,54.99,54.99,high,low,18,namesilo,,,
 1c906e90-85e1-4cc8-b9ce-4408554f6706,doughnut.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,
 abd4853b-edb6-436e-8ca0-2e09c43575e4,turnloose.diamonds,available,72.98,,low,low,10,namecheap,,,
@@ -469,18 +466,18 @@ a1915ef4-8306-448f-906c-7dbb9faa4de8,pig.diamonds,available,54.99,54.99,high,low
 89828c57-41bf-4a62-af7f-f951de6088f6,image.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,19/09/2026 12:04
 2cf5a20f-c26d-4ebd-9f80-b7151aac87cd,gutcheck.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
 b99076b2-4596-4837-8b81-c5ffdaa2a491,document.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
-b60da2d4-1bea-4e56-ba52-efa21438289a,blind.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
+b60da2d4-1bea-4e56-ba52-efa21438289a,blind.diamonds,available,57.98,72.98,low,low,5,namecheap,,,22/09/2026 21:56
 646b94bd-dacc-47b0-8394-41aa40633967,basilary.diamonds,available,54.99,54.99,low,low,8,namesilo,,,08/08/2026 22:22
 4d104009-312f-4662-9341-674bd9710449,azotemic.diamonds,available,54.99,54.99,low,low,8,namesilo,,,08/09/2026 15:21
 ddb0ff9b-88d9-439d-9425-b70761f631dd,leavethedooropen.diamonds,available,54.99,54.99,high,low,19,namesilo,,,
 b7da6fc7-ecd8-40c2-ac73-801014a62318,deliver.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 efcb6576-fb13-47c3-8d62-fe05f512de6c,province.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,
 9f60329c-a007-4f8c-aa68-40799b681c09,tyrannic.diamonds,available,57.98,72.98,low,low,8,namecheap,,,07/08/2026 19:03
-0ad7fdd7-eaf7-4827-9577-54552052d10a,abounding.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
+0ad7fdd7-eaf7-4827-9577-54552052d10a,abounding.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
 a4b9b23f-ec55-4d72-8f8e-0049aad7adb3,asyoulike.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
 735d2996-0a43-414d-b525-3cb609dfc3b6,axonal.diamonds,available,54.99,54.99,low,low,6,namesilo,,,08/08/2026 02:01
 9d9b02b8-b667-4a11-9199-3a7c08b2ebf0,alacritous.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
-5642861a-c965-49eb-b6f6-3bf619e90f12,artificial.diamonds,premium,500,,medium,low,10,name.com,,,
+5642861a-c965-49eb-b6f6-3bf619e90f12,artificial.diamonds,premium,512,512,medium,low,10,namesilo,,,22/09/2026 08:57
 784e4684-0a90-41f9-8678-49e3d2432bab,alaska.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 d48e7494-11f2-4275-b699-5cc1bf591615,abranchial.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 6f1137e6-9ee7-442d-8f5e-d468edeaba6a,accrued.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
@@ -491,10 +488,10 @@ bc451da0-3da1-4329-8ee2-3089ad78fe74,audio.diamonds,available,54.99,54.99,high,l
 7737aef3-0077-482f-aeb3-8fa6fde7470b,term.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 11531be2-1775-47ce-ba92-06157d8a9205,shakehands.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
 6d3fbf8f-5b9b-4a9d-9ea4-9ccec63a2d20,cinema.diamonds,available,57.98,72.98,medium,low,6,namecheap,,,19/09/2026 09:58
-6ffba304-1cfc-4eaa-9d4c-5e186a2c2dfa,science.diamonds,resell,,,medium,low,7,"GoDaddy.com, LLC",21/03/2025 21:32,21/03/2027 21:32,20/09/2026 21:50
+6ffba304-1cfc-4eaa-9d4c-5e186a2c2dfa,science.diamonds,resell,,,medium,low,7,"GoDaddy.com, LLC",21/03/2025 21:32,21/03/2027 21:32,23/09/2026 02:40
 bbf273ee-c4c8-4ff5-84e2-6e200af2d88a,arts.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,19/09/2026 04:18
 a519084d-f830-47fd-ba37-3e0031259391,anal.diamonds,available,54.99,54.99,low,low,4,namesilo,,,
-ae4ce63c-487c-4fbc-99b7-9f5dc891f24a,help.diamonds,available,72.98,,medium,medium,4,namecheap,,,
+ae4ce63c-487c-4fbc-99b7-9f5dc891f24a,help.diamonds,available,54.99,54.99,low,low,4,namesilo,,,22/09/2026 10:03
 f1d2d7ee-5a7f-42d0-9f45-5d4f5492d5bf,car.diamonds,resell,72.98,,high,medium,3,OVH SAS,31/01/2026 14:16,31/01/2027 14:16,
 d779042d-67de-42b7-baf7-8fe8c1c3ad51,arborous.diamonds,available,54.99,54.99,low,low,8,namesilo,,,06/08/2026 13:29
 30c69ec9-1353-4240-a27a-167e6b2b9428,midjanuary.diamonds,available,72.98,,high,low,11,namecheap,,,
@@ -519,7 +516,7 @@ b1e42455-d79a-4bec-8160-daf80c2d97df,compensate.diamonds,available,72.98,,high,l
 a89a131f-2a24-41d6-9406-944d949378ba,lover.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 d5c3295c-7d29-4088-97fa-b7a56b75795a,bigben.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 800c33b4-dae0-4733-9f6d-85e49ed26099,impractical.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
-97e6760a-122c-4b80-b71c-bb19f20ea900,discovered.diamonds,available,72.98,,medium,low,10,namecheap,,,
+97e6760a-122c-4b80-b71c-bb19f20ea900,discovered.diamonds,available,54.99,54.99,low,low,10,namesilo,,,22/09/2026 09:21
 a0b36b6f-9dd1-4540-8403-a3ecfa8903fa,referable.diamonds,available,54.99,54.99,low,low,9,namesilo,,,07/08/2026 01:28
 947eb029-ef61-44b1-a624-10390fdbedb8,removal.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
 6fe9b7cf-7db4-4459-a5fd-2a40028e307d,torn.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
@@ -552,7 +549,7 @@ fe536fb9-52da-4568-9e41-d377dd1914c1,pivot.diamonds,available,54.99,54.99,high,l
 abbc92e8-f3fb-487a-b059-1c80a072fd0d,pleased.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 03de52b2-9492-43d5-ac96-581b479d8077,asyndetic.diamonds,available,54.99,54.99,low,low,9,namesilo,,,07/08/2026 10:34
 f85b5ab9-f3cf-4434-9348-44f1cf64ac2d,delayed.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
-cef4e764-7ef7-4901-a8a5-3c6a524af854,avocado.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+cef4e764-7ef7-4901-a8a5-3c6a524af854,avocado.diamonds,available,75.99,75.99,medium,low,7,name.com,,,22/09/2026 14:34
 d266a7fd-0d28-4d81-9301-bb64e68ae8b2,bust.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 827b6fef-7b8e-4e24-be33-17a6574b4ecf,sciences.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 8cdb88cc-079d-4f93-9471-cedb9d9ddfe2,ding.diamonds,available,72.98,,medium,low,4,namecheap,,,
@@ -563,14 +560,14 @@ a1a2da0d-7830-4a51-89ce-65a03ce23087,sent.diamonds,available,54.99,54.99,low,low
 755bb9a6-285e-432e-a167-a9efc61f6a07,transitions.diamonds,available,54.99,54.99,low,low,11,namesilo,,,
 6f0357ad-09ec-40c9-a7a6-836fcb7a8e36,misbegot.diamonds,available,54.99,54.99,low,low,8,namesilo,,,08/08/2026 23:59
 a23828df-2da1-4c15-afbe-7a7713bafebe,respectful.diamonds,available,72.98,,high,low,10,namecheap,,,
-bb49432b-9c26-4d85-a300-d39076a534a1,off.diamonds,premium,500,,high,low,3,name.com,,,
+bb49432b-9c26-4d85-a300-d39076a534a1,off.diamonds,premium,520,520,low,low,3,namecheap,,,22/09/2026 14:54
 54275685-b0de-4342-883d-b810638d3742,balding.diamonds,available,54.99,54.99,low,low,7,namesilo,,,08/08/2026 09:35
 54f91921-bed6-46eb-8319-5d97730983d4,usage.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 4fa37daa-bf3d-405a-8c45-2744beeaf371,astimesgo.diamonds,available,72.98,,medium,low,11,namecheap,,,
 a5bacc9c-0a74-48e1-aee8-2366e3717b54,anxiolytic.diamonds,available,54.99,54.99,low,low,10,namesilo,,,05/08/2026 21:38
 1febdbc3-e067-44d5-a239-54dec04d9ede,arbitral.diamonds,available,54.99,54.99,low,low,8,namesilo,,,06/08/2026 12:48
 02e10641-e83c-4496-94b4-297f1f91fd67,bullish.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-07770b97-d8f8-41dd-b4e9-f911a84cfdab,verywell.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
+07770b97-d8f8-41dd-b4e9-f911a84cfdab,verywell.diamonds,available,54.99,54.99,low,low,9,namesilo,,,22/09/2026 01:12
 8abd296a-f4ba-4594-9aca-0f4527f25057,joking.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 00bd213a-b566-4ef9-ab60-4baa9b65a832,piper.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
 fb31cbad-dfff-474b-931b-9cb864017e88,adscripted.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
@@ -603,7 +600,7 @@ e1957cbc-ae3c-42d5-a0d6-651e2979136d,bandy.diamonds,available,54.99,54.99,low,lo
 c4a5dfc3-fe64-4178-8f0a-b783a86a9872,speculation.diamonds,available,72.98,,low,low,11,namecheap,,,
 ab87a754-1991-45eb-8614-0384ac16deab,invisible.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 23ba7dc6-bad5-408c-bc17-822e44169657,amphibious.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
-51c4bfb0-4d0a-42cb-b469-8e91c66e0d87,stellar.diamonds,resell,,,high,medium,7,"Spaceship, Inc.",11/08/2023 18:24,11/08/2027 18:24,20/09/2026 18:18
+51c4bfb0-4d0a-42cb-b469-8e91c66e0d87,stellar.diamonds,resell,,,medium,low,7,"Spaceship, Inc.",11/08/2023 18:24,11/08/2027 18:24,22/09/2026 10:32
 02f2fe03-4045-47a5-963f-7715eb922998,cricket.diamonds,available,72.98,,high,low,7,namecheap,,,
 9d607486-78a5-40fd-a26c-4e212f6ef42e,sailor.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 29e8aecf-393b-46b2-a4f1-76142ee427da,noreally.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
@@ -620,7 +617,7 @@ b1879243-539b-4fdc-8bcb-2efacdf8462e,amphoric.diamonds,available,54.99,54.99,low
 e89ad5bc-ddee-4913-ba2c-4087a3ceb56a,grouchy.diamonds,available,54.99,54.99,low,low,7,namesilo,,,08/08/2026 07:52
 981b2556-4412-41d8-a0d8-bbd24e9c870c,acquired.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 33dc7521-52b2-49f2-b9f9-4109c7b65e56,hans.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
-1a522391-a452-4cf5-8c8d-7fa0ac1d81b1,ascent.diamonds,available,72.98,,high,low,6,namecheap,,,
+1a522391-a452-4cf5-8c8d-7fa0ac1d81b1,ascent.diamonds,available,57.98,72.98,low,low,6,namecheap,,,22/09/2026 09:19
 f8fe4da5-ae12-4823-934d-f46ca415bc2c,pity.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 19529b58-842c-49a2-a3f2-26bfc242f350,asofright.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
 83c7f677-9b9f-4987-a98c-93cbdbd7c612,datefrom.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
@@ -654,11 +651,11 @@ cbed4aea-a1a8-494a-ad6d-d52d0f12d705,photo.diamonds,premium,78.54,78.54,high,med
 b6e03874-d803-4e3b-9798-c173cc4b9615,sail.diamonds,available,72.98,,high,low,4,namecheap,,,
 90c1552c-ec8a-4162-9c0c-b441ab9a70f6,insolvent.diamonds,available,54.99,54.99,low,low,9,namesilo,,,08/08/2026 13:34
 fca36b30-ce74-4090-bb9a-14aea1e7d03c,finally.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-15e77a5b-7d14-46f5-8467-00254a7cb996,cyan.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
+15e77a5b-7d14-46f5-8467-00254a7cb996,cyan.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,22/09/2026 22:59
 acc85252-204c-4882-a829-7bf5016e3c50,modesty.diamonds,available,72.98,,high,low,7,namecheap,,,
 ec0d6565-fde7-4dd0-9460-9b3e649c86f6,thisafternoon.diamonds,available,54.99,54.99,low,low,14,namesilo,,,
 483a1dc7-b5bf-40ab-993a-6a7bc4a0b9a7,briefly.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
-eb1b58dc-ba95-4d8a-8dcd-ca7a9cefb3c8,augratin.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+eb1b58dc-ba95-4d8a-8dcd-ca7a9cefb3c8,augratin.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,22/09/2026 11:47
 b5ef6f95-54a8-4a9b-8efb-91c0a53dc83a,okboomer.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 f3dc6ea0-a491-4476-b078-531e75a71d1b,afrikander.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 971c64ee-4918-4428-ba93-8905e18346c9,him.diamonds,premium,78.54,78.54,high,low,3,namesilo,,,
@@ -699,7 +696,7 @@ e2d4c309-f0f0-4993-9c10-57e3734c3a26,comeinhot.diamonds,available,54.99,54.99,hi
 cd6a018d-f681-46cf-bf49-6d08160093f1,nightmare.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 69cd7c98-fdf1-4714-af13-b5cbdbc4e6fd,agential.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 b45173ed-55ab-4af4-8b7c-c48081b728d7,wouldithurt.diamonds,available,54.99,54.99,low,low,13,namesilo,,,
-8ba45e88-e040-4a6e-8d97-de182d4bdcd2,all.diamonds,premium,250,250,high,medium,3,name.com,,,
+8ba45e88-e040-4a6e-8d97-de182d4bdcd2,all.diamonds,premium,260,260,medium,low,3,namecheap,,,22/09/2026 00:25
 e683c01d-7306-4812-9602-0b2c80a91008,saddle.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 40c6ccef-8ab5-4419-a229-4de979e4e97d,barefaced.diamonds,available,54.99,54.99,low,low,9,namesilo,,,08/08/2026 09:20
 a8058292-af6a-4470-96a6-a3ced9dbd9e6,knockover.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
@@ -714,16 +711,16 @@ e4c77615-64b0-44a8-ac23-7cfa124b2ecc,loosely.diamonds,available,54.99,54.99,medi
 d2b066c9-d66e-4191-9911-0a612f4105a0,aphakic.diamonds,available,54.99,54.99,low,low,7,namesilo,,,05/08/2026 22:56
 6be24841-ae2b-4825-b03e-7ae7d1d30bf1,are.diamonds,premium,242,242,high,low,3,namesilo,,,
 3486cd72-4ea6-4fe3-b075-6e6bd5fb9d61,terrifying.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
-0c824fba-7920-4535-8dfd-85417a032e4e,choice.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+0c824fba-7920-4535-8dfd-85417a032e4e,choice.diamonds,available,57.98,72.98,medium,low,6,namecheap,,,22/09/2026 02:45
 bfb13cc2-058c-4ff9-bc9e-e62a8cb53212,adscript.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 7b6a6f95-f68a-4d24-8f58-5c41bcb35cf8,aloud.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 3a1bbd95-bbbd-4935-a125-8b3d2d78e9d4,amnic.diamonds,available,54.99,54.99,low,low,5,namesilo,,,
-29255f3b-e59b-4939-9f50-6d4721331b8a,lost.diamonds,available,72.98,,medium,low,4,namecheap,,,
+29255f3b-e59b-4939-9f50-6d4721331b8a,lost.diamonds,available,54.99,54.99,low,low,4,namesilo,,,22/09/2026 10:52
 ca7c7d2f-dca6-4a36-a3e1-b816d10402d3,derive.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 7d7349e3-ff31-455a-9e98-0e2f2057f0d9,characteristic.diamonds,available,72.98,,high,low,14,namecheap,,,
 2ecd62e9-aced-4a46-b693-f2099f7c5a8a,computer.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,19/09/2026 07:18
 84bec54f-c2b1-4258-9a42-7bab6843d0a0,summertire.diamonds,available,72.98,,high,low,11,namecheap,,,
-5018a6d6-a9bd-4a97-b250-2d96ddbb293b,antacid.diamonds,available,72.98,,high,low,7,namecheap,,,
+5018a6d6-a9bd-4a97-b250-2d96ddbb293b,antacid.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,22/09/2026 05:43
 53bb6227-5c26-41e8-b1d1-8739f03cbf1b,amidship.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 027aa234-026c-4b4d-ade9-090ec96a8932,mousearound.diamonds,available,54.99,54.99,low,low,12,namesilo,,,
 a875c6fd-43d1-4ae6-9189-31db0e0a0314,grandjury.diamonds,available,72.98,,medium,low,10,namecheap,,,
@@ -731,10 +728,10 @@ a875c6fd-43d1-4ae6-9189-31db0e0a0314,grandjury.diamonds,available,72.98,,medium,
 d95fc759-e15d-4999-9a16-11a733098056,board.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
 762c9412-722b-424d-9b3a-6f7024a5d12e,gelpen.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 0015fbf7-319e-4668-b5ae-2b2c3be2de10,opal.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
-e44f66b2-c212-4b1e-9d9f-29fa569d99be,audacious.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+e44f66b2-c212-4b1e-9d9f-29fa569d99be,audacious.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,22/09/2026 12:06
 1aa8689d-36ef-4d2e-a464-895a44bea3a5,caustic.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 b25b3e05-2a5a-4f2f-991a-9bc2eaf8489f,fin.diamonds,available,54.99,54.99,low,low,3,namesilo,,,
-ad7ddfc4-9fea-45ed-b1df-539266ee88a2,horseback.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+ad7ddfc4-9fea-45ed-b1df-539266ee88a2,horseback.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,21/09/2026 23:38
 f1ccd060-288f-499c-8970-94e446324c9e,dslr.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 b7534a27-5e5e-438c-aea4-df276bfae1f3,cognizant.diamonds,available,54.99,54.99,low,low,9,namesilo,,,08/08/2026 00:13
 2d1ea60d-4338-4438-bf82-db7983e8adb3,sickly.diamonds,available,57.98,72.98,low,low,6,namecheap,,,
@@ -756,15 +753,15 @@ af2d9b28-8d86-42e8-b73a-49210a731cfc,awakening.diamonds,available,54.99,54.99,hi
 1e2fa78b-11b2-440a-8f8e-a877cf523f42,retail.diamonds,premium,242,242,high,low,6,namesilo,,,
 14d092dd-a7d5-4da4-b0f8-29d4c3b88bbd,marines.diamonds,available,72.98,,high,low,7,namecheap,,,
 3249296b-7275-4d23-9327-b05ab3b246d6,vent.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
-02bcd934-5794-49dc-a99b-8bf05ae25492,leading.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+02bcd934-5794-49dc-a99b-8bf05ae25492,leading.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,21/09/2026 23:23
 da0ccdf5-9751-46f7-bb16-e10020082c03,amatory.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 812ee74b-733f-4cbb-ac5d-4c3371cb0cd4,employee.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 510a477c-586a-4371-9bc4-7c0f5274ac73,iso.diamonds,available,,,high,low,3,,,,
-3fc31b40-d818-4aa1-b697-05412c7f4210,blurry.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
+3fc31b40-d818-4aa1-b697-05412c7f4210,blurry.diamonds,available,54.99,54.99,low,low,6,namesilo,,,22/09/2026 23:23
 b3105e61-d8a1-4c2e-8769-af9a1e577dec,masculine.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 ba338713-4a59-45e2-9220-da5eb654296b,amateurish.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 99110fd5-ddbf-48d2-9373-ac56bc0c52db,spontaneous.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
-fc73bec5-709d-4568-ab09-a761db5b2c2f,equal.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
+fc73bec5-709d-4568-ab09-a761db5b2c2f,equal.diamonds,available,57.98,72.98,medium,low,5,namecheap,,,21/09/2026 18:27
 d8dc090f-4838-4e51-a5f3-4cad651eda59,rubbingoil.diamonds,available,54.99,54.99,low,low,11,namesilo,,,
 4b74fefd-a9da-4ece-81ca-27a18fd69e80,crackers.diamonds,available,54.99,54.99,low,low,8,namesilo,,,06/08/2026 20:45
 6f0db20e-a8ff-4363-a443-82654fc833e7,beatable.diamonds,available,54.99,54.99,low,low,8,namesilo,,,09/08/2026 05:37
@@ -792,8 +789,8 @@ a455f0f0-a11d-4a4b-ad98-b2087edf1022,transmit.diamonds,available,72.98,,medium,l
 83136252-464d-460e-a44c-90ec58b26c4b,onsale.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 8c298e77-a047-466b-89a0-a246371c43cd,refine.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
 bdfa53b4-4736-4504-a2f7-ee465defda4a,hover.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
-382fe0ac-89b8-44b1-b135-faa415ecd02e,xii.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,
-4516450c-5f06-4bf6-bb5b-fb8dc56755a7,acknowledge.diamonds,available,72.98,,high,low,11,namecheap,,,
+382fe0ac-89b8-44b1-b135-faa415ecd02e,xii.diamonds,available,57.98,72.98,low,low,3,namecheap,,,21/09/2026 11:25
+4516450c-5f06-4bf6-bb5b-fb8dc56755a7,acknowledge.diamonds,available,72.98,,medium,low,11,namecheap,,,
 36d51040-bfe1-4147-9f9a-5ad002514d1b,wax.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,
 53ae2893-a2ad-4b33-950a-5dfdb22d47f7,unpaid.diamonds,available,54.99,54.99,low,low,6,namesilo,,,
 85c64983-bd8b-4122-9229-5a7c124d8711,usual.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
@@ -827,7 +824,7 @@ addeb38d-ce93-4f6d-ac7d-b3e4b8628c3d,liked.diamonds,available,54.99,54.99,high,l
 caae95cd-0869-4606-b4a0-3190bb8d4200,surfcity.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
 9dcfd43e-bafb-416d-be2d-c881c767937a,soon.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 6ce0ba45-3894-4bd4-9b52-46fb65566e54,annelid.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
-3911aff3-a957-472d-a66b-bc2d203ab9fc,bared.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
+3911aff3-a957-472d-a66b-bc2d203ab9fc,bared.diamonds,available,54.99,54.99,low,low,5,namesilo,,,22/09/2026 17:24
 c79750ba-831d-4bb7-8e9f-5cf50ce20411,shocked.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 9b735b45-04b3-4da7-9b40-78100cb7071f,script.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,08/09/2026 13:57
 0233eb9d-21c7-4c8e-9430-aa0d8f23463c,toiletpaper.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
@@ -851,7 +848,7 @@ e3aa8a88-87c2-4503-a579-cd3764c7ecd9,spurious.diamonds,available,54.99,54.99,low
 400f1029-6176-4d96-b664-7a02d5d99be9,modernistcuisine.diamonds,available,54.99,54.99,high,low,17,namesilo,,,
 11d9f5f5-ab69-40d9-bb8b-339a962ae521,discjockey.diamonds,available,54.99,54.99,high,low,11,namesilo,,,
 5dd75433-534a-4f69-a3c6-3c754bf1a8e2,sensor.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
-e999e1bc-536a-4c92-9cae-6d618f442d68,twentysix.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
+e999e1bc-536a-4c92-9cae-6d618f442d68,twentysix.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,21/09/2026 12:53
 1e344745-e07e-4e87-a033-e09cd51aae74,cup.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,19/09/2026 14:42
 894777f9-4349-419e-9cf1-893daaf986cd,fervid.diamonds,available,54.99,54.99,low,low,6,namesilo,,,06/08/2026 16:19
 54bc5366-7ec0-494b-a253-89906a9cd5f4,badmintoncourt.diamonds,available,72.98,,high,low,15,namecheap,,,
@@ -859,7 +856,7 @@ e999e1bc-536a-4c92-9cae-6d618f442d68,twentysix.diamonds,available,54.99,54.99,hi
 9f09d87e-84d6-41f2-b2af-15b6ce1625d1,granola.diamonds,available,72.98,,high,low,7,namecheap,,,
 e10f3aa3-11d1-4f26-b619-d1044dd288c0,discspace.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
 eeb2f394-1a1b-44dc-aa35-663307373e99,bottom.diamonds,available,54.99,54.99,low,low,6,namesilo,,,09/08/2026 11:50
-28e0ee5c-2531-4f5a-8fc3-0c263ba9fb23,nervous.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
+28e0ee5c-2531-4f5a-8fc3-0c263ba9fb23,nervous.diamonds,available,54.99,54.99,low,low,7,namesilo,,,21/09/2026 22:02
 b6120ea5-8c92-4de8-a54b-8c3173ac5354,arable.diamonds,available,54.99,54.99,low,low,6,namesilo,,,06/08/2026 11:14
 a0c3b4e4-3d96-4c9e-b9be-47c186a1fbf5,adjuratory.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 31a68050-09d8-46cc-af18-abbe499c9c0e,uremic.diamonds,available,54.99,54.99,low,low,6,namesilo,,,08/08/2026 02:43
@@ -878,7 +875,7 @@ ee439bb8-3360-4b78-bac5-dbfedf6e107b,basaltic.diamonds,available,54.99,54.99,low
 b64cd031-d2fd-4c7a-bb00-13d8e398636c,admonitory.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
 99e9cb4b-563c-414e-aeb1-3abd55aad4d1,visitor.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 13f0fb05-ff01-4aa1-84a0-84a2841543e8,plentiful.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
-80779c5c-132b-446f-bbe7-eca726198bed,sick.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
+80779c5c-132b-446f-bbe7-eca726198bed,sick.diamonds,available,54.99,54.99,low,low,4,namesilo,,,23/09/2026 02:10
 f621ebcf-184c-4a9a-b1d5-e4f46de8a643,humourous.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
 7e160e7c-95ff-4855-b54c-ab1758b7ed1f,comical.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
 47f6d184-05c8-4d1f-918e-bda11c1eee80,cooking.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,08/09/2026 08:19
@@ -898,7 +895,7 @@ c8b7062f-ef3d-4d40-b6d8-1dd561b9962a,bedofroses.diamonds,available,54.99,54.99,h
 7027d7c4-bf67-45d6-935f-04a99990f012,introduced.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,
 c96e7eb8-172d-42fa-a77f-3a8b7ba3dd82,cxxxv.diamonds,available,54.99,54.99,low,low,5,namesilo,,,
 c217f25f-f079-42c5-bfe0-ad4b6768be73,studentloan.diamonds,available,54.99,54.99,medium,low,12,namesilo,,,
-2bf28081-dff1-48c9-8205-2f80b2b2434f,xiii.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,
+2bf28081-dff1-48c9-8205-2f80b2b2434f,xiii.diamonds,available,54.99,54.99,low,low,4,namesilo,,,21/09/2026 11:34
 cfc47398-1d92-4ef0-8ea9-cb456b2113bb,alberteinstein.diamonds,available,54.99,54.99,high,low,15,namesilo,,,
 5dd730ee-4832-4590-b58f-0f215f254de6,diva.diamonds,premium,118.8,118.8,high,low,4,namesilo,,,
 ff7e0959-3cda-4d8b-8cbd-457442192426,consumption.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
@@ -971,11 +968,11 @@ adf9f013-e7c2-4dea-a46f-ac0282c43eef,disparity.diamonds,available,54.99,54.99,me
 de1f04ea-672b-4cc2-9777-a8cd22d81a3a,neworleans.diamonds,premium,242,242,medium,low,11,namesilo,,,
 1b9b07aa-6db0-44b2-aeb1-b70bd824c9c7,thisandthat.diamonds,available,54.99,54.99,low,low,13,namesilo,,,
 3faea70a-51f0-451f-bea1-cda35655ea2b,eighteenth.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
-4e6dfabd-23e7-4c8f-9797-ada27cc55598,amalgamate.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
+4e6dfabd-23e7-4c8f-9797-ada27cc55598,amalgamate.diamonds,available,54.99,54.99,low,low,10,namesilo,,,22/09/2026 03:01
 9ec4a6d1-1aa4-48a8-95c2-edb94a675d3b,estival.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 a4e039a9-f3f6-4711-a1c3-a7fa89fd5013,acapnic.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
 8280e9b7-2a0d-4674-9c3f-af26c5169cb5,bacillar.diamonds,available,54.99,54.99,low,low,8,namesilo,,,08/08/2026 04:51
-cea938d7-a0f0-478a-bbc8-6d3fafc43195,weary.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
+cea938d7-a0f0-478a-bbc8-6d3fafc43195,weary.diamonds,available,54.99,54.99,low,low,5,namesilo,,,22/09/2026 15:10
 ede362ba-e187-4488-a4b5-2dd796ec6d95,mentioned.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
 5b169335-39a4-48cb-8ec9-0f8797b3795b,tour.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
 6bd5ab13-4223-4e13-b4c6-7b68048ff175,ninth.diamonds,available,54.99,54.99,low,low,5,namesilo,,,
@@ -983,10 +980,10 @@ ede362ba-e187-4488-a4b5-2dd796ec6d95,mentioned.diamonds,available,54.99,54.99,me
 a7c8b6a7-23ff-42f9-bfed-0eb0f64b365d,breatheeasy.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
 4076d700-e3a5-412b-b61f-962359f3cc85,affected.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
 dffde4a3-a3c2-4cab-aa5b-c1e752f2804b,altricial.diamonds,available,54.99,54.99,low,low,9,namesilo,,,
-1e132b20-22e5-44a9-90d6-d10c41bd3d50,allied.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+1e132b20-22e5-44a9-90d6-d10c41bd3d50,allied.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 01:28
 d9841988-e5f6-4911-906c-7604314011a8,algal.diamonds,available,54.99,54.99,low,low,5,namesilo,,,
 edd1b4cb-2318-420e-a346-2aa92d8a1f10,pressrelease.diamonds,available,72.98,,medium,low,13,namecheap,,,
-0d31ed8e-9712-4944-9228-d3d447e5d13e,born.diamonds,available,54.99,54.99,high,low,4,namesilo,,,
+0d31ed8e-9712-4944-9228-d3d447e5d13e,born.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,23/09/2026 00:37
 6cc54897-387b-4012-b77a-aae78f5eff13,woven.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 2ca39cad-5b0c-464e-800b-eb5701c52c73,rightandleft.diamonds,available,54.99,54.99,low,low,14,namesilo,,,
 7e06aac4-2d88-4fa1-9bf5-22bf421d06c0,stone.diamonds,available,54.99,54.99,low,low,5,namesilo,,,19/09/2026 11:54
@@ -997,5 +994,8 @@ f90c84ec-76f8-4dcb-8620-067f13012397,alley.diamonds,available,54.99,54.99,medium
 90634cb5-e409-4a06-afb6-788f9ff34049,astral.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,07/08/2026 09:57
 7e9c9c6c-c662-43d9-9f5e-98b8c82b30ab,april.diamonds,available,,,high,low,5,,,,
 11d8f28b-d996-4b6e-a7e3-b98e3decfe7b,anagogic.diamonds,available,54.99,54.99,low,low,8,namesilo,,,
-52af96a3-6288-4175-ae29-5863b2fa02fd,ageing.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
+52af96a3-6288-4175-ae29-5863b2fa02fd,ageing.diamonds,available,54.99,54.99,low,low,6,namesilo,,,21/09/2026 22:43
 2da9c75a-489b-4026-b592-b271c2ff4c08,pimpled.diamonds,available,54.99,54.99,low,low,7,namesilo,,,
+52acf40e-a981-4aed-8ce0-5176c47e5057,havethefirstidea.diamonds,available,54.99,54.99,medium,low,19,namesilo,,,
+d0526c47-8a83-4150-a2dd-956504b1ff62,principal.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+e8fd2d65-37a7-4d14-bcdb-25067bddac42,amylolytic.diamonds,available,54.99,54.99,low,low,10,namesilo,,,
