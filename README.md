@@ -1,10 +1,10 @@
-# Available .DIAMONDS One-Word Domains (29,143)
+# Available .DIAMONDS One-Word Domains (31,615)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C143%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C615%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .diamonds one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,143 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,615 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,143 domains · **Median ask:** $57.85 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 31,615 domains · **Median ask:** $57.05 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/diamonds`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | all.diamonds     | premium   | $260      | $260          | high           | medium | 3      | namecheap  |
 | atf.diamonds     | available | $57.98    | $72.98        | high           | low    | 3      | namecheap  |
 | deal.diamonds    | premium   | $512      | $512          | high           | low    | 4      | namesilo   |
-| auk.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo   |
+| auk.diamonds     | available | $54.99    | $54.99        | medium         | low    | 3      | namesilo   |
 | fake.diamonds    | premium   | $500      | $500          | high           | low    | 4      | name.com   |
 | bae.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo   |
-| more.diamonds    | premium   | $520      | $520          | high           | medium | 4      | namecheap  |
+| tree.diamonds    | premium   | $500      | —             | high           | medium | 4      | name.com   |
 | bag.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo   |
-| tree.diamonds    | premium   | $500      | —             | high           | low    | 4      | name.com   |
-| bbs.diamonds     | available | $57.98    | $72.98        | high           | low    | 3      | namecheap  |
 | buyer.diamonds   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
+| bbs.diamonds     | available | $57.98    | $72.98        | high           | low    | 3      | namecheap  |
+| luxury.diamonds  | premium   | $512      | $512          | high           | low    | 6      | namesilo   |
 | ben.diamonds     | available | $42.20    | $42.20        | high           | medium | 3      | cloudflare |
-| luxury.diamonds  | premium   | $520      | $520          | high           | low    | 6      | namecheap  |
-| cfs.diamonds     | available | $45.16    | $45.16        | high           | low    | 3      | dynadot    |
 | antique.diamonds | premium   | $512      | $512          | high           | low    | 7      | namesilo   |
-| cia.diamonds     | available | $54.99    | $54.99        | high           | medium | 3      | namesilo   |
+| cfs.diamonds     | available | $45.16    | $45.16        | high           | low    | 3      | dynadot    |
 | mounted.diamonds | premium   | $242      | $242          | high           | low    | 7      | namesilo   |
-| coy.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo   |
+| cia.diamonds     | available | $54.99    | $54.99        | high           | medium | 3      | namesilo   |
 | repairs.diamonds | premium   | $207.20   | $207.20       | medium         | low    | 7      | spaceship  |
+| coy.diamonds     | available | $54.99    | $54.99        | high           | low    | 3      | namesilo   |
+| setting.diamonds | premium   | $220      | $220          | high           | low    | 7      | dynadot    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,143 live domains                        |
+| 1,000-row public sample | 31,615 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 5 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIAMONDS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
