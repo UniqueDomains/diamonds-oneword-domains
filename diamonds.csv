@@ -5,6 +5,7 @@ d71b3a08-0ab3-461d-b2b7-1865c4d547b4,vase.diamonds,available,54.99,54.99,high,lo
 0c210868-c233-4052-8919-ed3fc1ad77e5,mouldy.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,25/08/2026 03:52
 5334081b-0bbf-448e-8ff4-54d1f5ad79d2,pcl.diamonds,available,43.77,43.77,high,low,3,porkbun,,,30/09/2026 21:08
 2fd85461-6225-46df-abe9-0643bdbb7f44,idiomatic.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,21/08/2026 18:07
+249b12f2-d25a-4a9c-9ec0-b0b7eab75a39,illnesses.diamonds,available,43.67,43.67,low,low,9,spaceship,,,01/10/2026 18:29
 a966f820-01ec-4862-9dd7-a1aa333b98a1,poulet.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,12/08/2026 04:55
 8b04fba4-8533-4455-aedd-c9e2b1ad13b2,contributed.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,29/09/2026 17:13
 168ccc88-8a15-4cc2-8133-673aae6fd482,federalist.diamonds,available,42.2,42.2,medium,low,10,cloudflare,,,28/09/2026 19:11
@@ -15,7 +16,7 @@ b9d139c1-df50-466e-8531-b1397189e7e7,newtonian.diamonds,available,54.99,54.99,me
 f247d3f7-989e-4eb5-bfd1-e2fc62b2e952,quake.diamonds,available,54.99,54.99,high,low,5,namesilo,,,29/09/2026 18:44
 835cbf0d-f607-43da-a004-ff7efe52627c,moot.diamonds,available,54.99,54.99,high,low,4,namesilo,,,14/08/2026 00:31
 9539bf92-bceb-4630-b82e-aceee3379b2d,acorea.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,17/09/2026 02:12
-85aefbfc-bbee-40a1-b931-8eae1cdada0c,bakery.diamonds,available,43.67,43.67,high,low,6,spaceship,,,28/09/2026 12:14
+85aefbfc-bbee-40a1-b931-8eae1cdada0c,bakery.diamonds,available,45.16,45.16,high,low,6,dynadot,,,01/10/2026 20:15
 54fd6648-98c3-4969-ac28-b656bff9b106,javan.diamonds,available,54.99,54.99,high,low,5,namesilo,,,22/08/2026 12:30
 60fcfaf9-52dc-448c-be63-c3e3d86fb06c,diplomate.diamonds,available,43.67,43.67,high,low,9,spaceship,,,29/09/2026 15:07
 73aed209-9d87-4427-9f12-64afa3ca036d,tough.diamonds,available,57.98,72.98,high,low,5,namecheap,,,22/09/2026 16:19
@@ -28,12 +29,13 @@ b1642ec0-dc89-49da-b082-9723ab6fd095,trot.diamonds,available,43.77,43.77,high,lo
 56e6b2d1-d3a7-4f3d-a496-cd9318d8076f,glissando.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,14/09/2026 21:37
 9bca9e13-5abc-4fcd-a92f-151df0903748,ideals.diamonds,available,43.67,43.67,medium,low,6,spaceship,,,29/09/2026 05:10
 628a8499-5541-48f6-b9aa-a9733b380091,coproduction.diamonds,available,54.99,54.99,medium,low,13,namesilo,,,30/09/2026 14:49
+c2668f48-174b-4aec-bfbb-3d7370661133,crates.diamonds,available,42.2,42.2,low,low,6,cloudflare,,,01/10/2026 17:58
 2f04f5fa-ba96-45a2-937c-1f030aeaf7e7,deccan.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,29/09/2026 23:43
 c4c6b9c3-68e0-4f20-8312-93e515401c55,aperture.diamonds,available,54.99,54.99,high,low,8,namesilo,,,19/09/2026 16:35
 d71b3f16-f8bc-49ba-bd6a-fbe7d008b238,pushes.diamonds,available,45.16,45.16,low,low,6,dynadot,,,29/09/2026 06:04
 0b0b826f-59f5-4fb0-977c-bd7ff728d064,dissolver.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,10/09/2026 13:52
 3f056a83-2c3a-425f-957a-8b70d668a763,ovary.diamonds,available,54.99,54.99,high,low,5,namesilo,,,01/10/2026 03:11
-439c99e8-95bb-495b-9811-c5a93f1cf057,experimental.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
+439c99e8-95bb-495b-9811-c5a93f1cf057,experimental.diamonds,available,42.2,42.2,high,low,12,cloudflare,,,01/10/2026 06:24
 984b7fca-5576-4a31-ac35-7cb52447c2b4,wedded.diamonds,available,54.99,54.99,high,low,6,namesilo,,,13/09/2026 09:30
 55c1a03c-519d-4770-95e4-3f76c5cabca9,infrared.diamonds,available,54.99,54.99,high,low,9,namesilo,,,04/09/2026 07:52
 1cc363c2-0fdc-4ffd-97be-f877a36583d8,dekker.diamonds,available,45.16,45.16,high,low,6,dynadot,,,29/09/2026 18:35
@@ -64,11 +66,13 @@ a724d296-0033-4c81-9a70-d1f76e4313cd,basswood.diamonds,available,75.99,75.99,med
 6b322cbb-35bd-4885-aa00-702eea676229,coy.diamonds,available,54.99,54.99,high,low,3,namesilo,,,24/09/2026 01:10
 f204c833-a391-40b9-b385-a2a8a4c2e09c,aldershot.diamonds,available,43.67,43.67,medium,low,9,spaceship,,,29/09/2026 15:14
 ed7301d2-1e7a-4fe4-b9fe-3133cef07832,accomplish.diamonds,available,42.2,42.2,high,low,10,cloudflare,,,28/09/2026 06:55
+c8cb4122-acda-4680-893f-dbe62f7fcf00,quayle.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,01/10/2026 11:02
 c2fd086f-8a08-4419-9a9a-4cbf62056f5f,employ.diamonds,available,54.99,54.99,high,low,6,namesilo,,,08/09/2026 13:39
 7c5bcbcd-c025-44a6-be13-2d0c46f309f6,trans.diamonds,available,43.67,43.67,high,low,5,spaceship,,,30/09/2026 03:32
 e13f05ef-2e37-46b5-8be2-7e37d8135567,cancerous.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,11/08/2026 16:33
 c1d5c32c-74df-4b48-886e-4a066ebd4aa8,apolitical.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,06/08/2026 02:02
 44aabb89-23e2-486a-abc2-23a141fd987b,bondable.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,09/08/2026 23:59
+a17946ea-6f03-4584-aae1-67fd78a6da0d,sorrows.diamonds,available,43.67,43.67,low,low,7,spaceship,,,01/10/2026 16:36
 97e81f48-3800-4902-86d4-8de0d4dbed5a,preservation.diamonds,available,43.67,43.67,high,low,12,spaceship,,,29/09/2026 16:07
 8aae6f6f-3fff-4fa1-ab55-e4d3baf7fc15,haversack.diamonds,available,54.99,54.99,high,low,9,namesilo,,,21/09/2026 14:43
 b3a90bf3-8239-40d9-82b3-8b78b42360bb,continuous.diamonds,available,57.98,72.98,high,low,10,namecheap,,,23/09/2026 22:20
@@ -92,9 +96,11 @@ b527343e-b5d3-4c4c-8465-59ebd5a7692c,glanced.diamonds,available,75.99,75.99,medi
 56180897-7da4-4858-8cb8-03ede8e056fd,finalized.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,17/09/2026 13:05
 73f330db-14f9-4ce0-8392-5e9a355a05c8,lear.diamonds,available,54.99,54.99,high,low,4,namesilo,,,30/09/2026 17:07
 e0b23153-fba7-4a47-956a-498f779c8df4,foreigner.diamonds,available,54.99,54.99,high,low,9,namesilo,,,
+79f0a7ae-9deb-4e2c-96e3-b6c0300d4aba,nhk.diamonds,available,42.2,42.2,medium,low,3,cloudflare,,,01/10/2026 12:30
 6d3fbf8f-5b9b-4a9d-9ea4-9ccec63a2d20,cinema.diamonds,available,54.99,54.99,high,low,6,namesilo,,,01/10/2026 03:10
 3a3ecf81-84a3-449a-adf7-3bb9dd385da8,axseed.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,21/09/2026 10:31
 48e45c21-ab72-4260-be05-16d742aafaf1,henceforth.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,15/09/2026 00:15
+922003b5-050f-4961-b632-8995e29ce953,otero.diamonds,available,54.99,54.99,high,low,5,namesilo,,,02/10/2026 00:57
 2e4f5191-1d03-4db5-b58b-fdd976e8484b,quadrilateral.diamonds,available,43.77,43.77,high,low,13,porkbun,,,30/09/2026 19:15
 5e265a9e-e0bc-46e9-82f6-425ac86c362b,incorporate.diamonds,available,54.99,54.99,high,low,11,namesilo,,,29/09/2026 02:35
 6c58b299-151a-44fc-9c7d-f9aa9af3ccaf,waterless.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,06/08/2026 19:03
@@ -121,8 +127,10 @@ f392a18d-c31c-42fb-a46f-29b285588664,foolishly.diamonds,available,57.98,72.98,me
 25c619dc-eb2a-4630-9371-bc058235c77c,santa.diamonds,available,42.2,42.2,high,low,5,cloudflare,,,29/09/2026 19:01
 ea6d5dcb-5e43-41a8-908e-c6b95ddec052,operative.diamonds,available,54.99,54.99,high,low,9,namesilo,,,04/09/2026 16:29
 3b96130e-3585-4cab-a88e-7d3606e2bc9d,therein.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,15/09/2026 07:03
+2269c39e-8b6a-4daf-b724-3ba05b4d04d4,coined.diamonds,available,43.67,43.67,medium,low,6,spaceship,,,02/10/2026 01:39
 8a3dbe56-1a83-40e1-bc07-23e662978004,tofu.diamonds,available,57.98,72.98,high,low,4,namecheap,,,22/09/2026 20:09
 746b614f-794d-4c75-ac15-ca91e2b28f9f,symbolize.diamonds,available,54.99,54.99,high,low,9,namesilo,,,01/10/2026 04:25
+85225f7a-c2d4-40a3-8ee2-0de110724f1b,undermining.diamonds,available,43.67,43.67,medium,low,11,spaceship,,,01/10/2026 15:46
 58ddc964-2e74-4b85-8413-c42f02a28978,moonlit.diamonds,available,54.99,54.99,high,low,7,namesilo,,,25/08/2026 05:56
 baddce51-7130-4f21-93ec-e2c4164654c6,heavenly.diamonds,available,54.99,54.99,high,low,8,namesilo,,,11/08/2026 23:21
 26af7c9d-c2a7-45c5-92f0-ba064fdcf306,bayat.diamonds,available,57.98,72.98,medium,low,5,namecheap,,,22/09/2026 17:57
@@ -132,8 +140,10 @@ ba71e3b3-a211-41d6-9f1e-90faddb92a28,animal.diamonds,available,54.99,54.99,high,
 79eac09d-1253-46c4-9ee5-f03f504aad67,finale.diamonds,available,54.99,54.99,high,low,6,namesilo,,,23/09/2026 14:46
 712f70ac-f6f8-44d1-b710-c2363c3a9c41,withdrawing.diamonds,available,43.67,43.67,medium,low,11,spaceship,,,29/09/2026 21:24
 91e7f9d3-1b5d-452e-9062-04d670cb5779,oftentimes.diamonds,available,57.98,72.98,medium,low,10,namecheap,,,14/09/2026 20:04
+d26547a3-2079-437d-8ea2-09e63c6917ab,faked.diamonds,available,43.77,43.77,low,low,5,porkbun,,,02/10/2026 02:18
 b053e152-f1b7-4b56-a7ba-eaba86c8bc19,melody.diamonds,available,45.16,45.16,high,low,6,dynadot,,,28/09/2026 02:24
 25b351f6-bf6c-4361-a57b-d6e380b4c41a,downright.diamonds,available,57.98,72.98,high,low,9,namecheap,,,14/08/2026 17:50
+5f4dd7a7-a574-4da4-9754-327e3fa70cb9,slovaks.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,02/10/2026 03:51
 d5898f51-4737-4f75-a1c9-e6953eafdc5d,zane.diamonds,available,57.98,72.98,high,low,4,namecheap,,,29/09/2026 04:01
 db78d91e-ea7d-4e5f-bf49-5887d4c3a5db,mara.diamonds,available,42.2,42.2,high,low,4,cloudflare,,,29/09/2026 12:05
 81a6edf0-b0df-44f4-bfb7-501d7f89c4de,ambrosia.diamonds,available,54.99,54.99,high,low,8,namesilo,,,18/09/2026 17:26
@@ -163,7 +173,7 @@ e5867214-b802-44c0-8cc7-1c88e5358507,tobin.diamonds,available,57.98,72.98,high,l
 1e2f0858-89bc-4d83-a512-a0e5345dec2b,markedly.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,15/09/2026 13:31
 6d2139d2-90f3-41ce-83f0-982f9e05ada9,outrageous.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,17/08/2026 17:38
 10e4c113-8a95-43fe-bf0f-3f699f8c1945,aqua.diamonds,available,54.99,54.99,high,medium,4,namesilo,,,19/09/2026 22:48
-594d1170-f865-4c29-a0c9-f38dd420b2f4,company.diamonds,available,83.99,83.99,high,low,7,godaddy,,,30/09/2026 01:24
+594d1170-f865-4c29-a0c9-f38dd420b2f4,company.diamonds,available,54.99,54.99,high,low,7,namesilo,,,01/10/2026 22:50
 a026fc73-8261-4665-adc1-43efc2a502da,programme.diamonds,available,54.99,54.99,high,low,9,namesilo,,,24/09/2026 16:59
 0fe5a251-7100-4af0-9480-6bc2cde09d9e,hogan.diamonds,available,54.99,54.99,high,low,5,namesilo,,,23/09/2026 07:21
 3bae616b-bed1-4002-aa9c-122ed175e210,confirms.diamonds,available,43.67,43.67,low,low,8,spaceship,,,29/09/2026 05:49
@@ -188,7 +198,7 @@ dcb05e2b-5e68-4728-a2c6-a662bea531c5,saucer.diamonds,available,54.99,54.99,high,
 c0fb6323-f9af-4205-9421-7beb1f8a0632,holdings.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,17/09/2026 20:27
 e78a2e58-bbf7-4800-84a7-e3d3a2899162,taxman.diamonds,available,57.98,72.98,medium,low,6,namecheap,,,24/09/2026 16:18
 a0815c8b-85c6-4b78-b068-c31131600ce9,luckily.diamonds,available,57.98,72.98,high,low,7,namecheap,,,13/09/2026 21:22
-45741f7e-c94e-4d52-a3f4-e3fc473664db,investor.diamonds,available,43.67,43.67,high,medium,8,spaceship,,,28/09/2026 05:43
+45741f7e-c94e-4d52-a3f4-e3fc473664db,investor.diamonds,available,42.2,42.2,high,medium,8,cloudflare,,,01/10/2026 14:20
 e56ebc5e-3e50-4ab0-8147-c90217e05e34,venerable.diamonds,available,54.99,54.99,high,low,9,namesilo,,,27/09/2026 14:05
 0c719440-6111-41b6-bb36-a458126c36c1,maxilla.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,24/08/2026 17:52
 53fd3041-4ef6-4990-9109-96d0c7207f22,holman.diamonds,available,42.2,42.2,high,low,6,cloudflare,,,28/09/2026 04:15
@@ -269,6 +279,7 @@ f0ed33d6-a292-43da-b9dd-0fdc7a06436b,adynamic.diamonds,available,54.99,54.99,med
 f51e6333-ec9d-4d36-a0d2-89b92fc9bd0c,serotonin.diamonds,available,54.99,54.99,high,low,9,namesilo,,,16/09/2026 12:37
 65c6017e-e246-4c5b-b1b1-e32be40e72fe,thunderous.diamonds,available,75.99,75.99,medium,low,10,name.com,,,13/08/2026 19:56
 53967e3f-0a10-4366-aa7b-96ec2970e911,tree.diamonds,premium,500,,high,medium,4,name.com,,,30/09/2026 11:12
+b6e804b4-0d70-4010-8313-982c8ffb4d45,roseville.diamonds,premium,118.8,118.8,high,low,9,namesilo,,,02/10/2026 01:09
 656ba8c8-d358-43d9-836a-c3190338d02c,beirut.diamonds,available,57.98,72.98,high,low,6,namecheap,,,22/09/2026 18:14
 1da63150-7f85-457c-b286-b542a5abaacb,especially.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,28/09/2026 14:41
 5e59e010-e0c9-4256-b8e3-6ef3dd540a64,figures.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,
@@ -285,6 +296,7 @@ b45c558e-206a-41db-85f6-df532d56a2ff,ephemeral.diamonds,available,54.99,54.99,hi
 b9cdd2b4-3313-4580-ac87-28a4b7baf6b9,reluctant.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,24/08/2026 08:21
 a35c23e7-ceed-42ec-ba48-6f52799cc43d,armless.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,06/08/2026 19:54
 4d410f08-b5c3-4358-bb1c-23acad9d6463,nur.diamonds,available,43.67,43.67,medium,low,3,spaceship,,,28/09/2026 15:38
+2c5b0703-58cd-4ec5-a6b1-4efbe7006a18,poisons.diamonds,available,54.99,54.99,low,low,7,namesilo,,,02/10/2026 03:39
 c0b8fcc5-1d6d-44af-9eb3-b7576b41c537,epicure.diamonds,available,54.99,54.99,high,low,7,namesilo,,,17/08/2026 10:42
 bbb925d4-b28b-42c6-b65f-456f401619eb,antilog.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,19/09/2026 14:38
 ae59f68e-b128-45f4-ae3d-c25a829995cd,screw.diamonds,available,54.99,54.99,high,low,5,namesilo,,,18/08/2026 17:26
@@ -295,6 +307,7 @@ ae59f68e-b128-45f4-ae3d-c25a829995cd,screw.diamonds,available,54.99,54.99,high,l
 1da8123c-8d90-4e4f-9073-5e4c7854dbf1,musset.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,18/09/2026 06:29
 26f546ca-9723-4347-9ec9-8ec4a7aeb266,jaunty.diamonds,available,54.99,54.99,high,low,6,namesilo,,,12/08/2026 06:01
 236f64f5-05f8-4568-9a9e-be579f201be7,deletion.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,24/09/2026 21:34
+0e25a14b-dcc2-43d3-998c-27464181e340,overflowing.diamonds,available,57.98,72.98,high,low,11,namecheap,,,01/10/2026 05:59
 00fc5f65-2f27-42f4-816d-77e13ef076c2,anticancer.diamonds,available,54.99,54.99,high,low,10,namesilo,,,22/09/2026 06:38
 1baddfc5-b51b-4d9f-b609-3f5ab4b73129,pittsfield.diamonds,available,43.67,43.67,medium,low,10,spaceship,,,29/09/2026 07:52
 6b105fd2-4a54-4353-92fc-51ebe0619317,kingly.diamonds,available,54.99,54.99,high,low,6,namesilo,,,22/08/2026 16:17
@@ -311,10 +324,10 @@ d23cd2ff-5659-4864-89e2-fb78ed95951f,tipton.diamonds,available,54.99,54.99,mediu
 96ebaf48-ba73-4812-92a2-1c1d04cb8111,slatey.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,10/09/2026 10:21
 34ce6b4b-6f7d-4139-bf2a-d04e0f1c92c7,suborbital.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,11/09/2026 00:34
 776bd0b9-ba7e-4371-a2b3-6590128c6087,intangible.diamonds,available,57.98,72.98,high,low,10,namecheap,,,21/08/2026 21:42
-0aaa55d1-3f73-4e4e-82bd-b2f467a0c7be,respecting.diamonds,available,72.98,,medium,low,10,namecheap,,,
+0aaa55d1-3f73-4e4e-82bd-b2f467a0c7be,respecting.diamonds,available,43.77,43.77,medium,low,10,porkbun,,,01/10/2026 21:57
 11f6897c-eb0f-4933-927d-f2fcf07ff230,risks.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,20/09/2026 06:40
 a4ae8ccb-bf45-4fe3-9774-e18cf910ff77,reticently.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,15/09/2026 23:31
-0e2c3884-5b76-44ba-8580-aaa3fead6c47,creating.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
+0e2c3884-5b76-44ba-8580-aaa3fead6c47,creating.diamonds,available,43.77,43.77,high,low,8,porkbun,,,01/10/2026 19:45
 1d4c41b4-2f08-41e7-a897-930787eb18ce,manipulation.diamonds,available,42.2,42.2,high,low,12,cloudflare,,,29/09/2026 10:20
 93e2200f-f424-49c0-9007-185fdeb61199,overdressed.diamonds,available,57.98,72.98,medium,low,12,namecheap,,,16/09/2026 17:42
 4adb66a2-7107-4ed2-813f-502d350ff639,ashe.diamonds,available,54.99,54.99,high,low,4,namesilo,,,20/09/2026 10:46
@@ -325,6 +338,7 @@ c9d23d10-74ab-4d18-95c7-33bba36d7fb0,assayer.diamonds,available,57.98,72.98,medi
 780898ca-9df2-4e81-8c1e-c5cf0645ad72,distribute.diamonds,available,45.16,45.16,high,low,10,dynadot,,,28/09/2026 00:20
 74acc40b-4bf7-488b-90e3-28f78d26dd5c,puncture.diamonds,available,43.67,43.67,high,low,8,spaceship,,,29/09/2026 20:04
 a4688a89-96ec-4eb7-8f6a-7c3bc82cc0a1,although.diamonds,available,43.67,43.67,medium,low,8,spaceship,,,30/09/2026 22:29
+7ba0d329-69d3-42ee-a95b-b91e197649b0,med.diamonds,available,42.2,42.2,high,medium,3,cloudflare,,,01/10/2026 20:29
 b4387cf0-f095-4ee0-bf8c-38e76715b7a3,thinkers.diamonds,available,42.2,42.2,medium,low,8,cloudflare,,,30/09/2026 16:03
 9202f34c-ae28-4a47-aa4d-9698faab5106,colourise.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,12/08/2026 17:38
 1c98623b-35dc-46fd-a4d0-5cbf7507cfc6,getting.diamonds,available,43.77,43.77,high,low,7,porkbun,,,28/09/2026 17:59
@@ -336,7 +350,9 @@ fa6ed792-b4f5-4794-b7ba-bbd33d03c0a7,yowl.diamonds,available,54.99,54.99,medium,
 63fdce31-ee63-4ed4-b71c-629ecb6b7938,backslash.diamonds,available,43.77,43.77,high,low,9,porkbun,,,01/10/2026 00:11
 102d94a0-5cd5-4b4d-8c0d-ab166430cdc9,cradle.diamonds,available,54.99,54.99,high,low,6,namesilo,,,29/09/2026 06:28
 2893e8f5-d480-45c4-88a4-175f232d3d61,via.diamonds,available,43.67,43.67,high,medium,3,spaceship,,,28/09/2026 15:38
+431358da-c2da-4d88-94b6-613b33f408b0,individuality.diamonds,available,54.99,54.99,medium,low,13,namesilo,,,01/10/2026 14:25
 065d6e6d-a7db-48ac-9f23-ad3b9471fdeb,demonstrate.diamonds,available,42.2,42.2,high,low,11,cloudflare,,,28/09/2026 11:13
+a0b7992f-51fc-447e-9ab1-66fe7b174c4d,pascual.diamonds,available,43.67,43.67,medium,low,7,spaceship,,,02/10/2026 02:24
 425f372e-618d-4194-9b97-a4736a0fa11c,favour.diamonds,available,54.99,54.99,high,low,6,namesilo,,,25/09/2026 05:51
 2386295a-184b-460e-9127-86ae23fa8cd0,bengali.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,09/08/2026 14:29
 bd0eba27-f983-4cd3-8c48-681b9583f998,delusory.diamonds,available,57.98,72.98,low,low,8,namecheap,,,13/08/2026 21:18
@@ -352,14 +368,17 @@ a7b86814-b3e1-4bbe-830a-2c2a0f2df425,weekend.diamonds,available,42.2,42.2,medium
 53868418-4d5c-4b6a-984d-460846a9bc4e,auschwitz.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,21/09/2026 04:35
 b951b5c9-c64e-4048-841c-898cec34a465,convex.diamonds,available,54.99,54.99,high,low,6,namesilo,,,11/08/2026 08:24
 6a1a4d67-49c2-4f00-9950-4b13f9e6186b,fake.diamonds,premium,500,500,high,low,4,name.com,,,08/08/2026 23:02
+947d844b-7118-4d36-a66d-0a8f4e24e796,redlands.diamonds,available,54.99,54.99,high,low,8,namesilo,,,01/10/2026 12:23
 1776eaec-9b3d-41f6-9853-9cea9f6198e3,exquisite.diamonds,premium,250,250,high,low,9,name.com,,,17/08/2026 18:54
 9c8ba2ee-80ac-4113-bbed-453f14c3973a,bellyband.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,23/09/2026 06:51
 28e0ee5c-2531-4f5a-8fc3-0c263ba9fb23,nervous.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,21/09/2026 22:02
 094bbece-de77-4637-97e6-099e5b975c10,saleh.diamonds,available,43.67,43.67,high,low,5,spaceship,,,29/09/2026 22:35
+4bd1a142-0732-446f-98d7-ae32b40ee89b,lsa.diamonds,available,57.98,72.98,medium,low,3,namecheap,,,01/10/2026 18:39
 1c198cf4-1e34-44db-89c9-fd46cc21ef7f,watched.diamonds,available,54.99,54.99,high,low,7,namesilo,,,18/09/2026 01:33
 b3118351-8f02-4194-87f0-3838b5761f5b,onstage.diamonds,available,57.98,72.98,high,low,8,namecheap,,,16/09/2026 19:36
 6b7f0e1a-ec54-4515-9d36-fcd4548c1e2c,critique.diamonds,available,43.67,43.67,high,low,8,spaceship,,,29/09/2026 12:05
 a307aea4-e2e4-4c21-8e28-e6d2df2af4d1,unmannered.diamonds,available,54.99,54.99,low,low,10,namesilo,,,08/08/2026 07:28
+840408fe-489f-4d32-9fab-e21d705c942b,considerate.diamonds,available,43.77,43.77,high,low,11,porkbun,,,01/10/2026 04:44
 1c284afb-045c-4685-a342-b7bbbfdd77b8,drills.diamonds,available,42.2,42.2,medium,low,6,cloudflare,,,30/09/2026 15:41
 68c998b4-887f-4674-9bec-728ab921fee9,atf.diamonds,available,57.98,72.98,high,low,3,namecheap,,,20/09/2026 20:14
 7d00d580-6610-47ad-9f46-ad9ca36847e5,taunting.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,14/08/2026 02:54
@@ -392,6 +411,7 @@ f538970a-2eaf-46c4-8949-d123d1388034,spotless.diamonds,available,54.99,54.99,hig
 4f863d0c-6706-4b6f-8ee1-e59f87b2a18e,approver.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,19/09/2026 22:24
 efcd1986-3967-4751-91b1-8c473a7a0ea7,containment.diamonds,available,54.99,54.99,high,low,11,namesilo,,,29/09/2026 10:17
 3bb553dd-84c6-4636-be18-605edde13e79,strong.diamonds,available,54.99,54.99,high,low,6,namesilo,,,25/09/2026 07:58
+1c498780-2fd8-4ec7-99dd-0c765bdb8185,fsc.diamonds,available,54.99,54.99,high,low,3,namesilo,,,01/10/2026 07:46
 7e9ff02d-ddc3-4145-a0b9-fe10a716316c,windflower.diamonds,available,54.99,54.99,high,low,10,namesilo,,,19/09/2026 05:19
 8795c442-85fa-4e8a-9c40-8542a7ed34c8,hick.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,11/08/2026 09:44
 83c22f48-61d0-4379-8b36-bc59462479c1,fundraiser.diamonds,available,43.67,43.67,high,low,10,spaceship,,,30/09/2026 17:25
@@ -423,12 +443,15 @@ aa7f479e-3066-48e2-bc80-80556a17ce5c,metabolic.diamonds,available,57.98,72.98,hi
 9e9eb3a3-3017-4a11-b3ce-8a5373a1b6df,indictment.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,23/09/2026 16:05
 e6d2f262-115b-4406-82ba-7d6a0ca709fe,however.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,28/09/2026 11:49
 1518690a-e65b-424c-84a5-bab0c004c88d,hone.diamonds,available,54.99,54.99,high,low,4,namesilo,,,08/09/2026 16:29
+fa139096-339d-4c69-9433-9acbd3f4b2ba,upholstery.diamonds,available,43.67,43.67,high,low,10,spaceship,,,01/10/2026 22:01
 38e63a68-46cc-454c-915a-8007f8fdc3ec,seasonable.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,10/09/2026 00:56
 a97290f0-e322-4767-a288-9e9e35fc54a4,richelieu.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,20/09/2026 06:31
+65e9469c-2747-467d-add3-01bc5c90f299,godmother.diamonds,available,42.2,42.2,high,low,9,cloudflare,,,01/10/2026 19:50
 88f12aed-29f5-4129-bba1-a70bad9e6eab,spectators.diamonds,available,43.77,43.77,medium,low,10,porkbun,,,30/09/2026 06:28
 950205a5-7101-481e-8ade-042117e89b9a,bowhead.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,21/09/2026 20:32
 447e6ddb-78ad-4bae-bdf8-42c038263387,feather.diamonds,available,43.67,43.67,high,low,7,spaceship,,,29/09/2026 19:02
 dd63ca06-00a0-48ce-ac28-27eb3893fb99,hydraulic.diamonds,available,54.99,54.99,high,low,9,namesilo,,,21/08/2026 16:17
+8dbedce6-c554-4924-9ec1-a6127dd06565,differentiate.diamonds,available,43.67,43.67,high,low,13,spaceship,,,01/10/2026 05:28
 a5dd4118-83b7-4861-8f2e-975d918f2cd9,injured.diamonds,available,54.99,54.99,high,low,7,namesilo,,,22/08/2026 05:38
 8ba45e88-e040-4a6e-8d97-de182d4bdcd2,all.diamonds,premium,260,260,high,medium,3,namecheap,,,22/09/2026 00:25
 f57d5a3f-cc0c-4013-9c43-c3b2bd5fdc52,establish.diamonds,available,54.99,54.99,high,low,9,namesilo,,,22/09/2026 17:35
@@ -463,15 +486,17 @@ bda0dd1b-bb8f-4b38-b90b-3eb3d575675e,withholding.diamonds,available,54.99,54.99,
 4d5d1eb0-d198-4239-9f92-a31185c1b80c,managed.diamonds,available,43.67,43.67,high,low,7,spaceship,,,01/10/2026 02:50
 ea53d99c-329d-4e8a-833b-8cd9e16b034c,prodigally.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,15/09/2026 21:38
 3db1164f-c809-49e4-9679-b40e5e882ea1,claims.diamonds,available,57.98,72.98,high,low,6,namecheap,,,25/09/2026 20:29
+c1f85d27-58d2-4f41-8213-c849cdd78cc6,exchangeable.diamonds,available,43.67,43.67,high,low,12,spaceship,,,01/10/2026 23:07
 48a92d65-36fc-4e8e-ada0-a95b25123497,kidnap.diamonds,available,45.16,45.16,medium,low,6,dynadot,,,28/09/2026 20:48
 9467b4a8-d2c7-4f6f-9d1a-135916efc266,accuse.diamonds,available,42.2,42.2,medium,low,6,cloudflare,,,29/09/2026 02:41
 7056ec87-ce58-4586-a781-916af506b126,heartbeat.diamonds,available,54.99,54.99,high,low,9,namesilo,,,22/08/2026 07:28
 7f1e8825-3d76-46d8-9e2d-870343c64715,bait.diamonds,available,54.99,54.99,high,low,4,namesilo,,,21/09/2026 19:42
 5b13b6b6-c68d-4c4c-b50b-24f78f580895,travis.diamonds,available,54.99,54.99,high,low,6,namesilo,,,25/09/2026 13:01
-f392a9eb-03fc-4a4d-b5b3-8107fb02a070,appreciative.diamonds,available,72.98,,high,low,12,namecheap,,,
+f392a9eb-03fc-4a4d-b5b3-8107fb02a070,appreciative.diamonds,available,54.99,54.99,high,low,12,namesilo,,,01/10/2026 21:37
 d78b2fc6-0e2e-4a2f-acaa-9438c18ec5d7,distaste.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,19/09/2026 14:55
 12ae2ba0-ba4d-410e-9a53-2ff12a1bd055,execute.diamonds,available,54.99,54.99,high,low,7,namesilo,,,27/09/2026 16:26
 e2f93cf9-686d-483e-8604-2c4cb469c477,usgs.diamonds,available,45.16,45.16,medium,low,4,dynadot,,,28/09/2026 03:54
+afce0dd9-a977-4fcd-b189-30cbc99cafa5,voigt.diamonds,available,43.67,43.67,high,low,5,spaceship,,,02/10/2026 00:35
 4a865cac-35ed-4973-af00-4a365fcbc9d3,lateen.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,22/08/2026 20:29
 a3b0af3b-2711-4402-b285-9ff99034bda1,sausage.diamonds,available,43.67,43.67,high,low,7,spaceship,,,30/09/2026 10:39
 3ad372a1-d548-4b90-b502-44b0aa612fd4,droopy.diamonds,available,57.98,72.98,medium,low,6,namecheap,,,14/08/2026 19:43
@@ -484,6 +509,7 @@ b70352a7-5ff8-4aa7-8e65-97dee9c7b8e4,mollify.diamonds,available,54.99,54.99,high
 77f14406-c284-4807-9286-01784d4f8b97,verse.diamonds,available,54.99,54.99,high,low,5,namesilo,,,30/09/2026 07:06
 cf9bc9f9-9887-46e8-bc47-cbda465210bc,adherence.diamonds,available,57.98,72.98,high,low,9,namecheap,,,17/09/2026 07:58
 8a50228f-351a-4d66-bdaf-dbf14f3ebc1c,deduction.diamonds,available,43.67,43.67,high,low,9,spaceship,,,30/09/2026 09:21
+73c6950d-34f5-4d2d-aca4-ce36272a6982,plankton.diamonds,available,43.77,43.77,high,low,8,porkbun,,,01/10/2026 21:18
 1a30347b-2fe7-4cd9-b7dd-84353f4663ec,sweptwing.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,11/09/2026 05:46
 e95dfa08-2ec9-4f6f-a5c0-ddb3c75bdd72,mortars.diamonds,available,54.99,54.99,low,low,7,namesilo,,,21/09/2026 02:28
 0c6ddd86-db93-4d1c-86da-c3a4733f445e,searches.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,20/09/2026 07:30
@@ -500,6 +526,7 @@ fc3cf043-34af-4175-ad03-364b6a090303,seamed.diamonds,available,54.99,54.99,mediu
 98b147d8-a051-4ab1-9bdc-8071eff51dc2,imprecise.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,21/08/2026 23:00
 01373364-bfc6-4870-a855-823e7068cbcc,volute.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,12/08/2026 16:14
 4cd36393-9570-47c0-914d-007853ad6a7a,nicely.diamonds,available,54.99,54.99,high,low,6,namesilo,,,15/09/2026 16:32
+9d9126e0-0c2b-4e45-bd23-add0c56a7094,sponsoring.diamonds,available,43.77,43.77,medium,low,10,porkbun,,,01/10/2026 18:41
 0df0b333-0129-4345-a263-977df7b88be9,bbc.diamonds,available,,,high,medium,3,,,,
 f2e3f4bf-5418-4303-add5-6200e7c873ed,hoover.diamonds,available,42.2,42.2,high,low,6,cloudflare,,,30/09/2026 17:36
 023acc98-11e8-4725-b3bf-61324ad01f78,beeline.diamonds,available,54.99,54.99,high,low,7,namesilo,,,23/09/2026 01:18
@@ -522,7 +549,7 @@ ab8b7405-5d07-43a4-be18-73b647f5183c,method.diamonds,available,54.99,54.99,high,
 1543ff8b-e963-4b03-9685-61102e382873,mehmet.diamonds,available,45.16,45.16,medium,low,6,dynadot,,,30/09/2026 20:59
 bab592a3-875e-484d-9a79-48dce6ccb3f0,annapolis.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,19/09/2026 10:10
 83446165-1233-440a-aade-be3457351a20,dsc.diamonds,available,45.16,45.16,high,low,3,dynadot,,,29/09/2026 21:44
-3960662d-2c51-4605-98d7-ef0d5e5ed3d6,automation.diamonds,available,42.2,42.2,high,medium,10,cloudflare,,,30/09/2026 07:35
+3960662d-2c51-4605-98d7-ef0d5e5ed3d6,automation.diamonds,available,54.99,54.99,high,medium,10,namesilo,,,02/10/2026 03:50
 ac990211-babc-4f21-afd4-fa306c729a07,entree.diamonds,available,57.98,72.98,high,low,6,namecheap,,,16/09/2026 22:08
 157776e7-b75e-4dd5-86db-88230ab23f50,claiming.diamonds,available,43.67,43.67,high,low,8,spaceship,,,28/09/2026 11:29
 e99327a1-cf62-40cd-a324-4726327bc97e,assuring.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,07/08/2026 08:31
@@ -531,13 +558,14 @@ e2725fa5-7ee1-42fd-8121-94c20bfd36e8,atheism.diamonds,available,57.98,72.98,medi
 2bab3237-faf4-4115-9adf-d9c26f330ed0,accentor.diamonds,available,75.99,75.99,medium,low,8,name.com,,,16/09/2026 21:58
 f41bdf5b-0ec1-4a68-bc8f-211363ab1bd7,inhalant.diamonds,available,54.99,54.99,high,low,8,namesilo,,,22/08/2026 05:02
 1a00c505-ca85-4e5b-8f59-2bfec25abfd7,ryan.diamonds,available,54.99,54.99,high,medium,4,namesilo,,,17/09/2026 00:32
+c8f905b3-c24a-445e-afab-3a4a753c6024,variational.diamonds,available,54.99,54.99,high,low,11,namesilo,,,01/10/2026 06:35
 780fda05-1141-4145-a4fb-b102240092dc,greatness.diamonds,available,43.67,43.67,medium,low,9,spaceship,,,28/09/2026 17:18
 42a09905-e380-49bd-8ef2-9d2f7e62840c,unimodal.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,12/09/2026 13:07
 34f9b599-498b-4337-a973-26196d150a46,heptad.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
 03bf38f8-986e-4e3f-9d08-e100b17f4c78,paternal.diamonds,available,54.99,54.99,high,low,8,namesilo,,,
 c1920cb6-3d67-4837-9b7e-edf905307693,infections.diamonds,available,54.99,54.99,low,low,10,namesilo,,,30/09/2026 15:33
 785b240e-7eb2-4394-b7a9-988c25999835,papaw.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,20/09/2026 14:12
-8bac667e-afc1-405e-9c57-ee01a20e5d9c,cheeses.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+8bac667e-afc1-405e-9c57-ee01a20e5d9c,cheeses.diamonds,available,54.99,54.99,high,low,7,namesilo,,,01/10/2026 23:44
 3fd17c19-62ca-44e5-ac9c-01364044aa51,quartic.diamonds,available,54.99,54.99,high,low,7,namesilo,,,10/08/2026 05:37
 fa93efe1-a462-4de1-b44b-393c569b3058,irb.diamonds,available,43.67,43.67,medium,low,3,spaceship,,,29/09/2026 03:06
 b6101107-ca77-4f52-8094-599260e2dcca,retract.diamonds,available,43.67,43.67,medium,low,7,spaceship,,,01/10/2026 04:08
@@ -558,6 +586,7 @@ b7f16001-a0eb-41c9-9ef4-d291e87d4e9b,nang.diamonds,available,45.16,45.16,high,lo
 b60053b8-7311-49ca-804d-4b57e65fd9b9,deane.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,28/09/2026 12:11
 d4edc385-3a5c-4baa-970f-faf01cc653ae,amenity.diamonds,available,57.98,72.98,high,low,7,namecheap,,,17/09/2026 19:17
 6ae6efd2-7c6a-4bc7-b48d-90338e0a1bc1,coughing.diamonds,available,45.16,45.16,medium,low,8,dynadot,,,29/09/2026 18:29
+d594de4a-bc76-457b-9024-d20ff20ae7b6,catalina.diamonds,available,43.67,43.67,high,low,8,spaceship,,,01/10/2026 23:03
 a1cb60ea-3ad9-4b5b-837a-a9a8859da755,grave.diamonds,available,57.98,72.98,high,low,5,namecheap,,,20/08/2026 18:38
 f4e20bdf-4bee-4eea-9c15-0c1a27547b6d,length.diamonds,available,54.99,54.99,high,low,6,namesilo,,,30/09/2026 02:48
 51671ac2-abed-4222-ad96-3a12085d4fe2,feeler.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,22/09/2026 04:48
@@ -566,13 +595,16 @@ fa55e997-227a-4054-98b1-aac02d0b12cf,stonewalls.diamonds,available,54.99,54.99,l
 838c920b-8a99-447b-b55f-e3c6277d3e95,din.diamonds,available,54.99,54.99,medium,low,3,namesilo,,,10/08/2026 13:17
 73cb749b-c14f-4111-9c41-d36cdb26f45f,opportunity.diamonds,available,54.99,54.99,high,low,11,namesilo,,,27/09/2026 02:17
 e78a00aa-8e10-49fc-9c53-24e84fb7f4a2,tyson.diamonds,available,54.99,54.99,high,low,5,namesilo,,,25/09/2026 23:42
+d15138d2-ad16-4243-9247-4b2ac9ce770c,wasatch.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,01/10/2026 10:30
 be2e999e-d724-4adf-8fdb-886b051775d0,luo.diamonds,available,43.67,43.67,high,low,3,spaceship,,,29/09/2026 07:30
 546391dc-5ac8-4c99-aebf-d75325e2b662,teeny.diamonds,available,54.99,54.99,high,low,5,namesilo,,,10/08/2026 08:12
 5945251a-7b97-415a-ae26-b3cc3434819f,sew.diamonds,available,43.67,43.67,high,low,3,spaceship,,,29/09/2026 14:00
 b9e40249-dfdf-4cad-82a5-2d4b10e1735c,sills.diamonds,available,54.99,54.99,high,low,5,namesilo,,,23/09/2026 06:04
+f2c0857d-918c-4887-9814-e18aea58e6da,unpublished.diamonds,available,43.67,43.67,medium,low,11,spaceship,,,02/10/2026 01:35
 ee22438b-74d7-42b6-ad91-413d7c75641d,sterope.diamonds,available,54.99,54.99,low,low,7,namesilo,,,20/09/2026 17:14
 2dc8d0f5-c15e-42a0-907b-6d7be1fb0a1e,damage.diamonds,available,54.99,54.99,high,low,6,namesilo,,,25/09/2026 04:36
 5c7361e2-ed45-4026-b8b4-6bdd9a1de1c7,issuer.diamonds,available,42.2,42.2,high,low,6,cloudflare,,,30/09/2026 10:16
+fec66bec-06bf-46b0-a959-e1df55b18e3a,bumping.diamonds,available,43.67,43.67,high,low,7,spaceship,,,01/10/2026 06:22
 51484eec-e978-4db2-bb09-22b418e28f3f,scienter.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,16/09/2026 00:44
 32a7b675-3fd2-425c-b31b-541622176ee0,revenge.diamonds,available,54.99,54.99,high,low,7,namesilo,,,25/09/2026 10:18
 9b3ee8a7-2ad7-4e67-943f-95b510329139,organize.diamonds,available,54.99,54.99,high,low,8,namesilo,,,23/09/2026 23:13
@@ -602,7 +634,7 @@ c45cb661-84ad-4ec3-8031-dc5ed4736f00,arafat.diamonds,available,54.99,54.99,mediu
 c9df0604-b252-41da-87ef-95f4e64ee584,geese.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
 cc87827f-a61d-43c2-8498-50217c59ed76,beijing.diamonds,available,54.99,54.99,high,low,7,namesilo,,,23/09/2026 04:10
 68f402e8-fada-4bd0-b409-b80a86d5ecca,download.diamonds,available,42.2,42.2,high,low,8,cloudflare,,,28/09/2026 06:58
-156bdf6f-0094-4190-9a7a-61d9bda14c78,hospital.diamonds,available,43.67,43.67,high,low,8,spaceship,,,28/09/2026 12:22
+156bdf6f-0094-4190-9a7a-61d9bda14c78,hospital.diamonds,available,42.2,42.2,high,low,8,cloudflare,,,01/10/2026 20:24
 c989de59-7c02-4ec8-9268-6d75fbef7a8b,deserter.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,06/08/2026 03:40
 37b3d91e-ef73-49ca-ac67-0e25fb735f4e,gillett.diamonds,available,43.77,43.77,medium,low,7,porkbun,,,30/09/2026 13:39
 93098393-cd43-4dd0-a84d-e331b7264e3e,wand.diamonds,available,54.99,54.99,high,low,4,namesilo,,,22/09/2026 14:13
@@ -610,6 +642,7 @@ c989de59-7c02-4ec8-9268-6d75fbef7a8b,deserter.diamonds,available,54.99,54.99,med
 6218d144-cdc0-4477-8e5b-15084af618fd,aestival.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,
 b77ee70e-d31e-428c-9508-a9321293cd33,subarctic.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,10/09/2026 23:36
 0abe415a-67ee-4888-b67d-e2cd0e9eabfa,antiphon.diamonds,available,75.99,75.99,medium,low,8,name.com,,,19/09/2026 14:56
+d1f35965-1b90-450c-8300-a24c3a667717,slr.diamonds,available,54.99,54.99,high,low,3,namesilo,,,02/10/2026 02:08
 38480587-93e4-4bef-8bc0-9b4f99a6e9a0,oldline.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,04/09/2026 01:51
 f2d3e4cc-7f01-4161-99ac-96406f9d04d9,excess.diamonds,available,54.99,54.99,high,low,6,namesilo,,,17/08/2026 16:06
 7291b695-84d9-444c-9c3e-3d168c3e4586,realizable.diamonds,available,54.99,54.99,high,low,10,namesilo,,,21/09/2026 15:51
@@ -650,6 +683,7 @@ fa5f09b0-fbd9-40a9-9ce1-73308b75b354,actuary.diamonds,available,54.99,54.99,high
 d9401bf1-f32b-4f81-895a-cfa4329c2edc,streetcleaner.diamonds,available,72.98,,low,low,14,namecheap,,,
 244f1ee2-4ffc-4605-a368-fafc529f9d67,bushnell.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,29/09/2026 11:50
 53fb0aec-0229-4e9e-aac7-dfd3319e53e9,anomic.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,
+7343cd11-9105-43a3-8594-21644a7c3f35,journalistic.diamonds,available,45.16,45.16,medium,low,12,dynadot,,,02/10/2026 02:11
 d504292e-7809-4720-b595-c728a08268a8,cynicism.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,24/09/2026 20:49
 f54e2e79-04e9-41e1-a962-ece97a56f7c2,jul.diamonds,available,43.67,43.67,medium,low,3,spaceship,,,28/09/2026 21:44
 93b1ebaf-4603-4c45-af31-2e1582c81f88,draws.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
@@ -659,6 +693,7 @@ a53471af-3faa-4a81-acf7-c2d28a951c3e,mackinnon.diamonds,available,54.99,54.99,me
 112a7b2f-9c4b-4dd7-ab2b-ed977506eaee,glossary.diamonds,available,45.16,45.16,high,low,8,dynadot,,,29/09/2026 20:53
 dee8d65d-7147-4d4c-a16d-000b350a8fdd,metre.diamonds,available,54.99,54.99,high,low,5,namesilo,,,25/09/2026 15:57
 d3427f78-db0b-4053-9625-b508c02d278f,sinai.diamonds,available,54.99,54.99,high,low,5,namesilo,,,25/09/2026 09:30
+cef5c5c1-0885-4db0-aeae-ad8246449b1d,entourage.diamonds,available,43.67,43.67,high,low,9,spaceship,,,01/10/2026 19:29
 5617468e-1ace-41ae-ae37-b8382cc525a7,seating.diamonds,available,43.67,43.67,high,low,7,spaceship,,,29/09/2026 02:06
 0fafba2f-704a-4cc3-afe3-4201c2c6a7ee,linelike.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,23/08/2026 15:03
 0dd7c1a5-4052-45f1-af95-f7dc8ba028ef,decorous.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,09/08/2026 06:21
@@ -680,6 +715,7 @@ e0a68b85-dc2b-4b51-98c6-6040a870aac3,tenerife.diamonds,available,54.99,54.99,hig
 34bdf314-6c1d-4679-a97e-553e7f6db8e2,moving.diamonds,available,54.99,54.99,high,low,6,namesilo,,,25/09/2026 22:01
 2c39ba08-4fdd-4ef9-a75e-2feb14e55bf0,protein.diamonds,available,54.99,54.99,high,low,7,namesilo,,,08/09/2026 08:51
 697ab441-036d-4b2a-b542-4372f3810fa6,busted.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,23/09/2026 12:06
+47b2989c-94ad-47b4-952a-04ceff841f00,cpp.diamonds,available,43.67,43.67,high,low,3,spaceship,,,01/10/2026 12:13
 44e31a7d-e629-4633-b9d4-dc910c956d65,bizet.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,23/09/2026 23:23
 3696cb9e-7301-4a82-b7c3-710f0e409094,towing.diamonds,available,54.99,54.99,high,low,6,namesilo,,,30/09/2026 03:48
 3028bae8-8d8c-4876-8f4a-1d2c49796317,simplest.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,29/09/2026 22:50
@@ -708,14 +744,16 @@ d535c8f0-8140-4bf5-a705-171a6efb2373,inca.diamonds,available,54.99,54.99,high,lo
 a7ecf6d5-6d64-4024-8b82-4fc4a1252797,contact.diamonds,available,83.99,83.99,high,medium,7,godaddy,,,28/09/2026 01:41
 1f9f9a22-57d0-4b2c-bac8-f19b48fcdf8e,bassist.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,22/09/2026 12:26
 57b87356-725d-47a9-8fc1-fc3effc62e59,metals.diamonds,available,43.67,43.67,high,low,6,spaceship,,,30/09/2026 06:19
-b785227b-4c4b-48fb-b601-76299cb6e35c,leasing.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
+b785227b-4c4b-48fb-b601-76299cb6e35c,leasing.diamonds,available,43.67,43.67,high,low,7,spaceship,,,01/10/2026 23:15
 0b28c6e5-5858-4c7d-8ac2-0062cdf29d6a,tate.diamonds,available,57.98,72.98,high,low,4,namecheap,,,18/09/2026 10:50
 935997a5-98eb-4fda-94f6-2c2186b380f0,shareholder.diamonds,available,54.99,54.99,high,low,11,namesilo,,,30/09/2026 03:52
 ee434de3-7d2a-4357-b8a1-17372c86e5a2,syracuse.diamonds,premium,68.51,68.51,high,low,8,spaceship,,,29/09/2026 20:20
+48cadf13-b1d0-435b-9909-7f95aa9180d6,otsego.diamonds,available,42.2,42.2,medium,low,6,cloudflare,,,02/10/2026 01:06
 a4fd15de-0bf7-46f3-9252-b638b7eef688,borough.diamonds,available,83.99,83.99,high,low,7,godaddy,,,01/10/2026 01:09
 d1190176-95e9-4c92-ae64-f9e2363bd617,birdwatch.diamonds,available,57.98,72.98,high,low,9,namecheap,,,23/09/2026 19:35
 60590bd8-811c-424c-9034-ffdd3a31cc9c,paraplegic.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,08/09/2026 01:10
 602f4111-056d-432f-aca5-93db06182968,antihero.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,19/09/2026 14:35
+7e9651c5-ab24-479b-a3dc-b5351c5fbab3,goldsmith.diamonds,available,43.67,43.67,high,low,9,spaceship,,,01/10/2026 19:50
 586e334c-1f92-47ad-ab81-5d03d931975e,photographer.diamonds,available,54.99,54.99,high,low,12,namesilo,,,27/09/2026 06:12
 fe92c703-9891-495e-83a2-9ef3ff484daf,dee.diamonds,available,42.2,42.2,high,low,3,cloudflare,,,28/09/2026 03:28
 5692cd2e-0138-44b2-8a33-7f67b650d34b,entangled.diamonds,available,54.99,54.99,high,low,9,namesilo,,,16/08/2026 13:26
@@ -748,6 +786,7 @@ ae98c6b5-6f5f-4341-a0e1-5b338a33f3cf,mesmerised.diamonds,available,54.99,54.99,m
 42ddfa28-41ab-478e-87d5-8be784e4dfd1,voluptuous.diamonds,available,54.99,54.99,high,low,10,namesilo,,,10/08/2026 20:39
 c3354cf6-2bd0-48bb-9a7f-f059f42dc880,aril.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,20/09/2026 05:30
 e67754ca-4762-4213-a368-2fb1f26cefc6,acedia.diamonds,available,57.98,72.98,medium,low,6,namecheap,,,16/09/2026 23:26
+92ea7078-0754-4674-9319-533c53e3618b,matrimony.diamonds,available,57.98,72.98,high,low,9,namecheap,,,01/10/2026 20:29
 357e4ffd-b4c4-4035-bba2-da08c1203127,dianne.diamonds,available,43.67,43.67,medium,low,6,spaceship,,,30/09/2026 05:00
 6c4887c0-07dd-465a-878c-e39bb734c4e2,blether.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,24/09/2026 04:49
 d7ff67b2-ed68-476a-be3c-6fbaf96793b1,handbill.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,11/08/2026 05:06
@@ -765,20 +804,21 @@ ed960434-3504-469e-a112-fdb54262f7f1,cry.diamonds,available,57.98,72.98,high,low
 87c00ff1-f719-4e5b-8407-af17a78e8ed9,gunrunner.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,20/09/2026 07:45
 f455ee61-096b-4620-b96d-c8b5dbc77135,pilgrimage.diamonds,available,43.67,43.67,high,low,10,spaceship,,,29/09/2026 20:00
 86cc6bc0-a723-44d0-876a-8757f45f5a05,flightless.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,18/08/2026 08:09
-eb283538-5f17-4f98-9bb9-d2fea03e03a8,undisciplined.diamonds,available,54.99,54.99,medium,low,13,namesilo,,,
+eb283538-5f17-4f98-9bb9-d2fea03e03a8,undisciplined.diamonds,available,43.67,43.67,medium,low,13,spaceship,,,01/10/2026 06:56
 8fb304ef-4b18-49ea-b2b9-fd19d0a54a32,rhino.diamonds,available,43.67,43.67,high,low,5,spaceship,,,29/09/2026 20:11
 30f1db15-f74b-4cde-bb88-624b7f35e1d6,compelled.diamonds,available,54.99,54.99,low,low,9,namesilo,,,28/09/2026 23:06
 14141b02-9628-434c-b8b0-d124e867578e,doctors.diamonds,available,54.99,54.99,high,low,7,namesilo,,,18/09/2026 07:41
 cf3ea392-0841-4375-8061-d96c23111d4c,baccarat.diamonds,available,54.99,54.99,high,low,8,namesilo,,,21/09/2026 13:56
 55a18520-ef03-4b8f-ba59-7d9f169fa1bd,mirrors.diamonds,available,43.67,43.67,medium,low,7,spaceship,,,28/09/2026 12:55
 1e4290fa-4fa5-4a57-a789-6125fb3b0e77,disturbing.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,14/08/2026 13:16
-6d2cb007-f8bc-4176-b7c8-e69f668eeefa,accounting.diamonds,available,42.2,42.2,high,low,10,cloudflare,,,29/09/2026 22:48
+6d2cb007-f8bc-4176-b7c8-e69f668eeefa,accounting.diamonds,available,43.67,43.67,high,low,10,spaceship,,,01/10/2026 17:54
 974a0f4d-3297-4b5e-938c-040707ea0882,hood.diamonds,available,54.99,54.99,high,medium,4,namesilo,,,27/09/2026 08:13
 1349ef61-e0e9-4736-a2e6-db753f3ae0e3,psyche.diamonds,available,42.2,42.2,high,low,6,cloudflare,,,30/09/2026 04:32
 3c37ceb8-e5e2-4c9b-b31b-a9d2be0d70fa,adrian.diamonds,available,54.99,54.99,high,low,6,namesilo,,,17/09/2026 09:59
 86c0178d-2d4c-4da5-a7c3-264798809fc9,bag.diamonds,available,54.99,54.99,high,low,3,namesilo,,,04/09/2026 13:24
 0e20e8ac-d7ed-4909-a647-e1869d3e2bd7,asystole.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,20/09/2026 18:57
 dea0894d-e10b-4884-a8a7-64d8409bc02a,municipal.diamonds,available,54.99,54.99,high,low,9,namesilo,,,03/09/2026 10:58
+fb3dda5b-3d35-4f57-b840-97f7c9795f18,cookbook.diamonds,available,43.67,43.67,high,low,8,spaceship,,,01/10/2026 19:04
 da9c20c9-776a-4ccd-ada5-0c4e6c651996,holler.diamonds,available,57.98,72.98,high,low,6,namecheap,,,23/09/2026 00:27
 84173ff8-3ae4-4666-b30d-8acf0587c101,thugs.diamonds,available,42.2,42.2,low,low,5,cloudflare,,,30/09/2026 15:25
 a01ce4ce-fa2c-43bc-87a0-2322526020c7,integrally.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,15/09/2026 08:51
@@ -788,6 +828,7 @@ a01ce4ce-fa2c-43bc-87a0-2322526020c7,integrally.diamonds,available,54.99,54.99,m
 c255cb81-0fb1-4513-8b99-dcc19e0cd113,gin.diamonds,available,57.98,72.98,high,low,3,namecheap,,,24/09/2026 18:31
 5d174c42-f455-45e7-9602-c932fb7d573e,millennium.diamonds,available,54.99,54.99,high,low,10,namesilo,,,24/08/2026 23:15
 173e8894-6628-4830-8b9a-bb671f5c39f7,cancel.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,29/09/2026 06:25
+5aa2714c-66cc-4ac3-b03b-5dd7bad26416,nubia.diamonds,available,42.2,42.2,high,low,5,cloudflare,,,01/10/2026 21:09
 fe536fb9-52da-4568-9e41-d377dd1914c1,pivot.diamonds,available,43.67,43.67,high,medium,5,spaceship,,,30/09/2026 06:56
 035d1c9c-cfc6-428a-b2a0-6a126235e7a9,qualified.diamonds,available,54.99,54.99,high,low,9,namesilo,,,14/08/2026 02:10
 73309ad3-0b34-4e0e-b1f6-f7b387a892f0,mediation.diamonds,available,54.99,54.99,high,low,9,namesilo,,,30/09/2026 02:01
@@ -795,6 +836,7 @@ a355e62b-12ad-4a9b-8246-7b1c2ea01c1b,steering.diamonds,available,54.99,54.99,med
 aee38077-c8f3-4343-8a3e-2a1fd90dadae,corvallis.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,30/09/2026 05:45
 d60de280-71f3-47df-8efd-cadf12e128f5,unturned.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,12/09/2026 21:54
 010dbfd8-2141-4bb8-9dc3-5f0138bc1187,language.diamonds,available,57.98,72.98,high,low,8,namecheap,,,25/09/2026 15:54
+0ea5801a-353c-4b86-a4df-481a9c9f13f0,dares.diamonds,available,43.67,43.67,medium,low,5,spaceship,,,02/10/2026 02:41
 9a970478-e11e-47b8-a76e-6e8643e7c6c6,resinlike.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,09/09/2026 15:11
 a01961d9-3967-43cd-8460-981ca8750194,survived.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,19/09/2026 19:18
 56f5ab96-f7b8-46bc-8f15-2065b5486ee0,siblings.diamonds,available,42.2,42.2,medium,low,8,cloudflare,,,29/09/2026 10:27
@@ -804,6 +846,7 @@ b028effe-e739-4bb2-a76e-f5c1d223232a,surgery.diamonds,available,54.99,54.99,high
 65bd8ee4-0add-4874-b852-2cf150c8cd17,vinnie.diamonds,available,43.67,43.67,medium,low,6,spaceship,,,30/09/2026 21:20
 0b0e12f9-8d02-468d-ac95-3861a7777483,juarez.diamonds,available,43.67,43.67,medium,low,6,spaceship,,,29/09/2026 18:22
 17084490-9a49-4393-af86-b9acc6d86731,umar.diamonds,available,54.99,54.99,high,low,4,namesilo,,,29/09/2026 11:35
+425646a2-a1dd-4681-b8e5-0f33e80c6f63,peralta.diamonds,available,43.67,43.67,medium,low,7,spaceship,,,01/10/2026 17:33
 9a3da5f7-3693-49de-bb49-a0c3284bd3c9,vertex.diamonds,available,54.99,54.99,high,low,6,namesilo,,,19/09/2026 16:44
 c4606d65-ef21-4ae6-aee2-d574e6c1ef64,similarities.diamonds,available,57.98,72.98,medium,low,12,namecheap,,,30/09/2026 06:01
 849be4d5-abd6-489e-bb87-114dc4616e92,amniote.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,18/09/2026 22:28
@@ -813,12 +856,13 @@ acb60db1-0f64-480a-bd22-c0bb4f9d8ffe,textbook.diamonds,available,54.99,54.99,hig
 7c2c3d7e-ca6a-4b94-92e3-47a2cab31b38,inky.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,22/08/2026 05:42
 f02751d9-af89-488d-b254-bea8a3ea0a0b,mole.diamonds,available,42.2,42.2,high,low,4,cloudflare,,,27/09/2026 11:53
 64823981-f7bf-44ef-a2c4-df140c84eefc,paternity.diamonds,available,43.67,43.67,high,low,9,spaceship,,,01/10/2026 02:01
+32653ad9-2427-440a-90b4-4a57d6962bf7,anticipating.diamonds,available,43.67,43.67,medium,low,12,spaceship,,,02/10/2026 02:52
 365f98ae-674e-4758-acff-73e3e68dc77a,botany.diamonds,available,54.99,54.99,high,low,6,namesilo,,,01/10/2026 02:32
 8ff14ae5-dac8-4ba6-9d0f-282bb800ff24,toulouse.diamonds,available,57.98,72.98,high,low,8,namecheap,,,27/09/2026 05:47
 55986398-2d6b-44d0-b623-7e4eec13517d,unabashed.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,11/09/2026 23:19
 1e20e677-694c-47bf-8a29-9d20539048ed,unspotted.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,12/09/2026 20:15
 c3dbe9e3-3785-427c-86dd-795f3685f196,dipping.diamonds,available,43.67,43.67,high,low,7,spaceship,,,30/09/2026 14:42
-f4635d34-4675-412f-9657-985c3d3bf090,bae.diamonds,available,54.99,54.99,high,low,3,namesilo,,,
+f4635d34-4675-412f-9657-985c3d3bf090,bae.diamonds,available,57.98,72.98,high,low,3,namecheap,,,02/10/2026 04:02
 4ea9ffe8-d8cf-4843-93f6-82a8fa463c8a,reckon.diamonds,available,54.99,54.99,high,low,6,namesilo,,,30/09/2026 09:37
 15f70eb5-c9c7-4298-89e7-62aec5f3a047,razorback.diamonds,available,54.99,54.99,high,low,9,namesilo,,,09/09/2026 10:48
 536cce9c-d293-4770-a2d7-907baad395b3,maneuver.diamonds,available,43.67,43.67,high,low,8,spaceship,,,29/09/2026 18:49
@@ -870,6 +914,7 @@ a5a19c33-b29c-45f6-99e4-2f283ca4ee1f,rent.diamonds,available,54.99,54.99,high,lo
 7061f1f5-7989-4efe-adef-bd51a9938be3,breeding.diamonds,available,54.99,54.99,high,low,8,namesilo,,,11/08/2026 03:36
 b0fb396e-0115-4c38-88f1-1ee89d2e1b77,rank.diamonds,available,54.99,54.99,high,low,4,namesilo,,,24/09/2026 13:36
 69191b5b-f63a-46d3-9cd3-99014b11861c,tout.diamonds,available,54.99,54.99,high,low,4,namesilo,,,11/08/2026 01:03
+fa893fdb-8473-4e57-a0d8-ca0fcae2ee89,denys.diamonds,available,43.67,43.67,medium,low,5,spaceship,,,01/10/2026 08:46
 717eca71-3405-43e4-a9ae-080c5f16612f,condo.diamonds,available,54.99,54.99,high,low,5,namesilo,,,29/09/2026 10:41
 06c93efd-6a9a-41d2-8d3f-d4b0b9c27b6e,jumps.diamonds,available,54.99,54.99,high,low,5,namesilo,,,
 fef59c04-f959-4a63-a396-81f95b42d099,canvas.diamonds,available,54.99,54.99,high,medium,6,namesilo,,,24/09/2026 12:10
@@ -889,10 +934,11 @@ a5eedf34-b370-48a3-8d24-cf674e7588b4,sore.diamonds,available,54.99,54.99,high,lo
 9443fdc3-bfa4-423f-8b5a-0d3925686e9c,forgive.diamonds,available,42.2,42.2,high,low,7,cloudflare,,,30/09/2026 19:56
 34f4654e-b25e-4780-874f-e041264a32bb,clop.diamonds,available,57.98,72.98,medium,low,4,namecheap,,,15/09/2026 20:47
 e9f6cba5-e9c5-46b5-9583-4d3dfcdedddd,finn.diamonds,available,54.99,54.99,high,low,4,namesilo,,,28/09/2026 05:42
+bef2eb88-f334-4083-b00c-246c2bd3d1b6,combines.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,02/10/2026 02:48
 73a818f0-354a-4f85-a9ca-7339524d8b1b,recommended.diamonds,premium,,,medium,low,11,,,,28/09/2026 08:36
 6dc662e3-6484-4fa8-ab9a-11c2306ade90,starless.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,10/09/2026 18:52
 95c2f892-e77e-4e6f-b6db-fccb8b34fd4c,windsock.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,17/09/2026 21:40
-4d2b304a-c90f-4db4-9784-11d134ac87e7,shoot.diamonds,available,54.99,54.99,high,low,5,namesilo,,,28/09/2026 12:19
+4d2b304a-c90f-4db4-9784-11d134ac87e7,shoot.diamonds,available,42.2,42.2,high,low,5,cloudflare,,,01/10/2026 20:21
 16a3492b-199e-47c0-a4bc-a0d4bddf4c1c,foes.diamonds,available,57.98,72.98,low,low,4,namecheap,,,18/09/2026 06:38
 77f787dc-4e8b-4725-904b-c154dc95d55c,serpent.diamonds,available,43.67,43.67,medium,low,7,spaceship,,,29/09/2026 01:45
 52e5e6bc-be36-42d3-80b1-38b1695838f0,directing.diamonds,available,54.99,54.99,high,low,9,namesilo,,,24/09/2026 10:51
@@ -953,49 +999,3 @@ e51ada3a-5b73-46ea-ab75-9ce17e57b26d,targeting.diamonds,available,43.77,43.77,me
 957eee65-721a-455b-bf12-7783069a9831,harness.diamonds,available,54.99,54.99,high,low,7,namesilo,,,29/09/2026 01:16
 945f598d-a18c-40fd-9061-9b3b2e0d85ed,apostate.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,06/08/2026 03:35
 271af891-860b-4046-8cb5-9607ceada23b,ropes.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,
-80a105c6-9359-4bf7-920b-df210ae322a2,raid.diamonds,available,54.99,54.99,high,low,4,namesilo,,,28/09/2026 09:48
-c5d423bf-afab-4156-a791-602b194f5783,principality.diamonds,available,54.99,54.99,medium,low,12,namesilo,,,28/09/2026 22:46
-242a00e9-7706-4fbb-8529-a3955ad9965a,trace.diamonds,available,54.99,54.99,high,medium,5,namesilo,,,29/09/2026 23:02
-96717d5c-aeb7-444d-8c41-c2b25b38c66a,elevate.diamonds,available,43.67,43.67,high,medium,7,spaceship,,,30/09/2026 10:25
-a20b9e3e-39ae-478a-b97b-3f5053c82b24,vindictive.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,14/08/2026 04:21
-0e02bb31-a7ad-449c-b861-cdf06b375056,punjab.diamonds,available,54.99,54.99,high,low,6,namesilo,,,27/09/2026 05:06
-181c33aa-368e-4930-809e-834a6771aaa6,aneuploid.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,
-dc681e76-fdf8-47d7-9e81-734ac0d83252,cloudburst.diamonds,available,54.99,54.99,medium,low,10,namesilo,,,24/09/2026 16:03
-cc204aea-a086-484e-b501-c85d422bb2bd,salads.diamonds,available,43.67,43.67,medium,low,6,spaceship,,,30/09/2026 14:29
-1a7610d8-7916-4b6f-8e97-ba99d8959a54,summer.diamonds,available,54.99,54.99,high,low,6,namesilo,,,27/09/2026 05:34
-06d91879-7799-4b31-9b66-8924ffc3a7af,rutland.diamonds,available,57.98,72.98,medium,low,7,namecheap,,,27/09/2026 05:16
-f1cb5ec9-926b-4bc7-bd9f-881a9cf3d5bb,asthenia.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,20/09/2026 17:17
-60e9cfab-3d83-4cda-9a70-42f1648c3fb7,important.diamonds,available,54.99,54.99,high,low,9,namesilo,,,22/09/2026 13:54
-02a29910-e1dd-4271-bec1-28f97d9389f6,item.diamonds,available,43.67,43.67,high,low,4,spaceship,,,28/09/2026 09:23
-d70dee81-e248-443a-963d-af52ce88004c,kellogg.diamonds,available,54.99,54.99,high,low,7,namesilo,,,27/09/2026 14:32
-e9b26d47-a860-4fe2-95ea-6a8424c901fd,killings.diamonds,available,43.67,43.67,low,low,8,spaceship,,,28/09/2026 23:59
-fdd49c1a-982a-4f1a-9e61-ebae941f698b,tipperary.diamonds,available,43.67,43.67,medium,low,9,spaceship,,,29/09/2026 09:36
-48da7807-4986-46b0-880b-96f6affebd42,squabble.diamonds,available,57.98,72.98,medium,low,8,namecheap,,,23/09/2026 13:15
-190e35c2-a15d-4d1e-b0ea-8979e74ee550,breeds.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,20/09/2026 01:09
-1f91a794-ad4f-4427-bcb6-a336e2493f90,tatty.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,18/08/2026 06:42
-4e74eab0-9253-4e99-a10c-46b6b264e487,pareve.diamonds,available,54.99,54.99,medium,low,6,namesilo,,,08/09/2026 01:25
-8f02921e-f2e6-4ddb-b440-c3d3bcbd80f1,bbs.diamonds,available,57.98,72.98,high,low,3,namecheap,,,22/09/2026 18:34
-bd25914d-522e-46f8-a4b0-2ded41001220,srs.diamonds,available,43.67,43.67,high,low,3,spaceship,,,29/09/2026 23:23
-3ceede27-3507-4f80-8b73-122867c78e35,thor.diamonds,available,57.98,72.98,high,medium,4,namecheap,,,29/09/2026 08:13
-71424049-188a-41bd-92a4-1755a4e6fca9,pentium.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-893f206e-ddd9-4eb1-bdce-bda8d7bc28cf,parhelic.diamonds,available,54.99,54.99,medium,low,8,namesilo,,,08/09/2026 01:31
-a22f84d4-0267-4982-a47f-fdfdc0e7de92,lads.diamonds,available,43.67,43.67,high,low,4,spaceship,,,29/09/2026 11:04
-83a6be6d-9f25-4bf3-920b-cda5f73684ba,emblems.diamonds,available,43.67,43.67,medium,low,7,spaceship,,,28/09/2026 18:24
-86e1b83b-bd58-46c0-b9bd-16d820c9343d,tang.diamonds,available,57.98,72.98,high,low,4,namecheap,,,24/09/2026 01:32
-ab530b8a-7ca3-4f4c-860c-fe740472dff1,hung.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,27/09/2026 08:46
-b608afec-3581-4304-a408-4fe5f344450f,bethe.diamonds,available,54.99,54.99,medium,low,5,namesilo,,,23/09/2026 11:12
-3cb7aecb-2619-41c8-9a39-2dd1c2682696,unreliable.diamonds,available,57.98,72.98,medium,low,10,namecheap,,,11/09/2026 19:06
-4c413ec1-3edd-4d1b-a680-3293d98d1411,asocial.diamonds,available,54.99,54.99,medium,low,7,namesilo,,,07/08/2026 04:36
-b29c1849-e759-4534-9953-96e0663f7af7,degenerate.diamonds,available,75.99,75.99,medium,low,10,name.com,,,13/08/2026 20:16
-00fb29c9-cc6a-4b1c-877d-a67e25ff8dc6,activating.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
-bbc0046b-5f1b-4415-b9c1-479503d5608b,wasteland.diamonds,available,57.98,72.98,medium,low,9,namecheap,,,08/08/2026 21:11
-826b290a-5c10-489b-ad6d-d7951e96784c,fall.diamonds,available,54.99,54.99,high,low,4,namesilo,,,28/09/2026 09:35
-330f0ef1-28d6-428b-b550-975da4b68fa5,playoffs.diamonds,available,43.67,43.67,medium,low,8,spaceship,,,30/09/2026 15:19
-9df9fb7f-b91d-41cd-980d-a671cb5920cc,cube.diamonds,available,42.2,42.2,high,medium,4,cloudflare,,,29/09/2026 12:58
-65da9a71-c2a5-4b14-b136-5f1499f3cf32,biota.diamonds,available,57.98,72.98,high,low,5,namecheap,,,23/09/2026 19:05
-846afd99-3e49-454a-8b3a-d8db2b2d7f8c,nor.diamonds,available,42.2,42.2,high,low,3,cloudflare,,,01/10/2026 00:50
-6c635a23-507a-44cc-9aaa-417b07634f9b,regarding.diamonds,available,57.98,72.98,high,low,9,namecheap,,,27/09/2026 06:20
-15345fcc-48a2-4764-baaa-a15e9815710a,macbeth.diamonds,available,54.99,54.99,high,low,7,namesilo,,,29/09/2026 13:20
-44394b65-53ef-4198-96cb-802e06a472ef,jena.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,22/09/2026 15:18
-5d3eaa62-3dc6-4fca-8778-60944e7e935f,borges.diamonds,available,54.99,54.99,high,low,6,namesilo,,,29/09/2026 11:45
-25793e80-5e07-4f54-bfdd-8414cb484c57,tartu.diamonds,available,57.98,72.98,medium,low,5,namecheap,,,30/09/2026 18:53
